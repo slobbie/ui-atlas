@@ -1,0 +1,3939 @@
+{
+  "schemaVersion": 1,
+  "count": 278,
+  "cases": [
+    {
+      "id": "ui-0001",
+      "title": "강조 버튼",
+      "category": "버튼, 행동",
+      "relatedCategories": [],
+      "organization": "기본 시안",
+      "summary": "버튼을 누르면 다음 단계로 진행한 결과가 나타납니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0001#ui-0001",
+        "specification": "references/ui-0001.md"
+      }
+    },
+    {
+      "id": "ui-0002",
+      "title": "주요 버튼과 보조 버튼",
+      "category": "버튼, 행동",
+      "relatedCategories": [],
+      "organization": "기본 시안",
+      "summary": "주요 행동과 보조 행동을 눌러 각각의 결과를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0002#ui-0002",
+        "specification": "references/ui-0002.md"
+      }
+    },
+    {
+      "id": "ui-0003",
+      "title": "비활성 버튼과 이유 안내",
+      "category": "버튼, 행동",
+      "relatedCategories": [],
+      "organization": "기본 시안",
+      "summary": "조건을 선택하면 버튼이 활성화되고 누른 결과를 확인할 수 있습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0003#ui-0003",
+        "specification": "references/ui-0003.md"
+      }
+    },
+    {
+      "id": "ui-0004",
+      "title": "레이블이 위에 있는 입력란",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "기본 시안",
+      "summary": "입력 전후에도 항목 이름이 남아 있는 기본 입력 형태입니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0004#ui-0004",
+        "specification": "references/ui-0004.md"
+      }
+    },
+    {
+      "id": "ui-0005",
+      "title": "필드 옆 오류 안내",
+      "category": "오류, 복구",
+      "relatedCategories": [
+        "폼, 텍스트 입력"
+      ],
+      "organization": "기본 시안",
+      "summary": "이메일을 확인하고 오류를 고치면 같은 자리에서 안내가 바뀝니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0005#ui-0005",
+        "specification": "references/ui-0005.md"
+      }
+    },
+    {
+      "id": "ui-0006",
+      "title": "선택 토글",
+      "category": "설정, 선택",
+      "relatedCategories": [
+        "폼, 텍스트 입력"
+      ],
+      "organization": "기본 시안",
+      "summary": "토글의 위치와 텍스트가 설정 상태에 함께 반응합니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0006#ui-0006",
+        "specification": "references/ui-0006.md"
+      }
+    },
+    {
+      "id": "ui-0007",
+      "title": "검색 입력과 검색어",
+      "category": "검색, 필터",
+      "relatedCategories": [
+        "폼, 텍스트 입력"
+      ],
+      "organization": "기본 시안",
+      "summary": "검색어를 입력하면 일치하는 장소가 나타나고 결과를 선택할 수 있습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0007#ui-0007",
+        "specification": "references/ui-0007.md"
+      }
+    },
+    {
+      "id": "ui-0008",
+      "title": "밑줄 탭",
+      "category": "탭, 화면 전환",
+      "relatedCategories": [
+        "메뉴, 내비게이션"
+      ],
+      "organization": "기본 시안",
+      "summary": "같은 맥락의 콘텐츠를 탭으로 전환합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0008#ui-0008",
+        "specification": "references/ui-0008.md"
+      }
+    },
+    {
+      "id": "ui-0009",
+      "title": "필터 칩",
+      "category": "검색, 필터",
+      "relatedCategories": [
+        "메뉴, 내비게이션",
+        "설정, 선택"
+      ],
+      "organization": "기본 시안",
+      "summary": "선택한 조건을 짧은 칩으로 확인하고 바꿉니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0009#ui-0009",
+        "specification": "references/ui-0009.md"
+      }
+    },
+    {
+      "id": "ui-0010",
+      "title": "하단 내비게이션",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "기본 시안",
+      "summary": "앱의 주요 화면을 하단 메뉴에서 이동합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0010#ui-0010",
+        "specification": "references/ui-0010.md"
+      }
+    },
+    {
+      "id": "ui-0011",
+      "title": "이미지와 요약 카드",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "기본 시안",
+      "summary": "콘텐츠 카드를 열어 요약과 상세의 관계를 살펴봅니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0011#ui-0011",
+        "specification": "references/ui-0011.md"
+      }
+    },
+    {
+      "id": "ui-0012",
+      "title": "아바타와 상태 목록",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "기본 시안",
+      "summary": "팀원을 선택하면 해당 사람의 상태를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0012#ui-0012",
+        "specification": "references/ui-0012.md"
+      }
+    },
+    {
+      "id": "ui-0013",
+      "title": "선택 가능한 요금제 카드",
+      "category": "카드, 그리드",
+      "relatedCategories": [
+        "설정, 선택"
+      ],
+      "organization": "기본 시안",
+      "summary": "요금제 하나를 선택하고 선택 내용을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0013#ui-0013",
+        "specification": "references/ui-0013.md"
+      }
+    },
+    {
+      "id": "ui-0014",
+      "title": "인라인 성공 안내",
+      "category": "알림, 피드백",
+      "relatedCategories": [],
+      "organization": "기본 시안",
+      "summary": "저장 행동 후 같은 영역에 성공 안내가 나타납니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0014#ui-0014",
+        "specification": "references/ui-0014.md"
+      }
+    },
+    {
+      "id": "ui-0015",
+      "title": "하단 토스트",
+      "category": "알림, 피드백",
+      "relatedCategories": [],
+      "organization": "기본 시안",
+      "summary": "즐겨찾기 후 토스트에서 바로 되돌릴 수 있습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0015#ui-0015",
+        "specification": "references/ui-0015.md"
+      }
+    },
+    {
+      "id": "ui-0016",
+      "title": "콘텐츠 로딩 스켈레톤",
+      "category": "로딩, 진행",
+      "relatedCategories": [],
+      "organization": "기본 시안",
+      "summary": "불러오기를 누르면 로딩 후 콘텐츠가 나타납니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0016#ui-0016",
+        "specification": "references/ui-0016.md"
+      }
+    },
+    {
+      "id": "ui-0017",
+      "title": "진행률 표시",
+      "category": "로딩, 진행",
+      "relatedCategories": [],
+      "organization": "기본 시안",
+      "summary": "가상 업로드의 진행과 완료 상태를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0017#ui-0017",
+        "specification": "references/ui-0017.md"
+      }
+    },
+    {
+      "id": "ui-0018",
+      "title": "확인 다이얼로그",
+      "category": "오버레이, 바텀시트",
+      "relatedCategories": [],
+      "organization": "기본 시안",
+      "summary": "삭제 전에 결과를 확인하고 취소하거나 삭제합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0018#ui-0018",
+        "specification": "references/ui-0018.md"
+      }
+    },
+    {
+      "id": "ui-0019",
+      "title": "하단에서 올라오는 선택 시트",
+      "category": "오버레이, 바텀시트",
+      "relatedCategories": [],
+      "organization": "기본 시안",
+      "summary": "공유하기를 눌러 시트를 열고 선택하거나 닫을 수 있습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0019#ui-0019",
+        "specification": "references/ui-0019.md"
+      }
+    },
+    {
+      "id": "ui-0020",
+      "title": "숨겨진 달력의 발견 가능성",
+      "category": "날짜, 달력",
+      "relatedCategories": [],
+      "organization": "토스",
+      "summary": "달력, 거래 내역, 소비 분석을 같은 위치에서 전환합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0020#ui-0020",
+        "specification": "references/ui-0020.md"
+      }
+    },
+    {
+      "id": "ui-0021",
+      "title": "대출 심사 대기 중 실제 정보",
+      "category": "로딩, 진행",
+      "relatedCategories": [],
+      "organization": "토스",
+      "summary": "확인 중에는 대기 상태를 유지하고 완료되면 예시 결과를 확인합니다.",
+      "motionTags": [
+        "대기, 진행 안내"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0021#ui-0021",
+        "specification": "references/ui-0021.md"
+      }
+    },
+    {
+      "id": "ui-0022",
+      "title": "Reels의 친구 반응과 스크롤",
+      "category": "소셜, 반응",
+      "relatedCategories": [],
+      "organization": "Meta, Facebook",
+      "summary": "목록을 스크롤하는 동안 반응의 움직임을 잠시 멈추고 반응을 선택해 자세히 봅니다.",
+      "motionTags": [
+        "모션 운영, 접근성"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0022#ui-0022",
+        "specification": "references/ui-0022.md"
+      }
+    },
+    {
+      "id": "ui-0023",
+      "title": "감정 반응의 시작과 종료",
+      "category": "소셜, 반응",
+      "relatedCategories": [],
+      "organization": "Meta, Facebook",
+      "summary": "반응을 선택하고 다시 눌러 취소할 수 있습니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0023#ui-0023",
+        "specification": "references/ui-0023.md"
+      }
+    },
+    {
+      "id": "ui-0024",
+      "title": "지도 핀과 목록의 정보 위계",
+      "category": "지도, 위치",
+      "relatedCategories": [],
+      "organization": "Airbnb",
+      "summary": "숙소를 검색하고 지도 핀이나 목록에서 선택하면 두 영역의 선택 상태가 함께 바뀝니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0024#ui-0024",
+        "specification": "references/ui-0024.md"
+      }
+    },
+    {
+      "id": "ui-0025",
+      "title": "숨겨진 가로 메뉴 개선",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Google Lookout",
+      "summary": "숨겨진 항목을 줄이고 메뉴를 한눈에 찾을 수 있는 배치를 살펴봅니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0025#ui-0025",
+        "specification": "references/ui-0025.md"
+      }
+    },
+    {
+      "id": "ui-0026",
+      "title": "카드에서 상세 화면으로",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Google, Material 2",
+      "summary": "카드를 열어 상세 내용을 보고 다시 목록으로 돌아갑니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0026#ui-0026",
+        "specification": "references/ui-0026.md"
+      }
+    },
+    {
+      "id": "ui-0027",
+      "title": "결제 입력의 오류 예방",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "Stripe",
+      "summary": "카드 번호를 입력하고 형식을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0027#ui-0027",
+        "specification": "references/ui-0027.md"
+      }
+    },
+    {
+      "id": "ui-0028",
+      "title": "드래그 외의 이동 방법",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "Atlassian",
+      "summary": "이동 버튼으로 순서를 변경하고 변경 결과를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0028#ui-0028",
+        "specification": "references/ui-0028.md"
+      }
+    },
+    {
+      "id": "ui-0029",
+      "title": "학습 기념일의 축하 모션",
+      "category": "성공, 축하",
+      "relatedCategories": [],
+      "organization": "Duolingo",
+      "summary": "학습을 완료하면 연속 기록이 갱신되고 축하 메시지가 나타납니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0029#ui-0029",
+        "specification": "references/ui-0029.md"
+      }
+    },
+    {
+      "id": "ui-0030",
+      "title": "버튼과 연결된 메뉴 열기",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Lusion, 현재 사이트",
+      "summary": "메뉴 버튼에서 목록이 열리고 선택 결과가 나타납니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0030#ui-0030",
+        "specification": "references/ui-0030.md"
+      }
+    },
+    {
+      "id": "ui-0031",
+      "title": "사진 삭제 후 그리드 재배치",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Google Photos",
+      "summary": "사진을 삭제하면 남은 사진이 빈자리를 채우고 복원할 수 있습니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0031#ui-0031",
+        "specification": "references/ui-0031.md"
+      }
+    },
+    {
+      "id": "ui-0032",
+      "title": "댓글 전송 확인과 포커스 유지",
+      "category": "소셜, 반응",
+      "relatedCategories": [],
+      "organization": "Meta, Facebook",
+      "summary": "댓글 전송 결과를 알리면서 작성하던 입력 위치를 유지합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0032#ui-0032",
+        "specification": "references/ui-0032.md"
+      }
+    },
+    {
+      "id": "ui-0033",
+      "title": "드래그 속도를 반영한 바텀 시트",
+      "category": "오버레이, 바텀시트",
+      "relatedCategories": [],
+      "organization": "Shopify, Shop",
+      "summary": "상품 상세를 열고 시트를 아래로 끌거나 닫기 버튼으로 닫습니다.",
+      "motionTags": [
+        "직접 조작"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0033#ui-0033",
+        "specification": "references/ui-0033.md"
+      }
+    },
+    {
+      "id": "ui-0034",
+      "title": "일시적 청취를 취향 프로필에서 제외",
+      "category": "설정, 선택",
+      "relatedCategories": [],
+      "organization": "Spotify",
+      "summary": "재생목록을 추천 프로필에서 제외하거나 다시 포함합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0034#ui-0034",
+        "specification": "references/ui-0034.md"
+      }
+    },
+    {
+      "id": "ui-0035",
+      "title": "자연어 요청과 추천 이유",
+      "category": "검색, 필터",
+      "relatedCategories": [],
+      "organization": "Spotify, Prompted Playlist 베타",
+      "summary": "요청을 바꾸고 추천을 누르면 가상의 결과와 이유가 바뀝니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0035#ui-0035",
+        "specification": "references/ui-0035.md"
+      }
+    },
+    {
+      "id": "ui-0036",
+      "title": "제출 전 오류 목록과 수정",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [
+        "오류, 복구"
+      ],
+      "organization": "Google Brain, 평가 도구",
+      "summary": "점수와 설명을 확인하고 오류 목록에서 해당 입력으로 이동합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0036#ui-0036",
+        "specification": "references/ui-0036.md"
+      }
+    },
+    {
+      "id": "ui-0037",
+      "title": "입력 도중 나타난 성급한 오류",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [
+        "오류, 복구"
+      ],
+      "organization": "Baymard, Williams Sonoma",
+      "summary": "입력을 마치고 확인할 때 형식을 검사합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0037#ui-0037",
+        "specification": "references/ui-0037.md"
+      }
+    },
+    {
+      "id": "ui-0038",
+      "title": "키보드 뒤에 숨은 다음 입력",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [
+        "오류, 복구"
+      ],
+      "organization": "토스, 회원가입",
+      "summary": "번호와 통신사를 입력한 뒤 다음 단계를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0038#ui-0038",
+        "specification": "references/ui-0038.md"
+      }
+    },
+    {
+      "id": "ui-0039",
+      "title": "하나씩 넘기는 스타일 대신 선택기",
+      "category": "설정, 선택",
+      "relatedCategories": [],
+      "organization": "Meta, Instagram Stories",
+      "summary": "나란히 정렬된 선택지에서 글자 스타일을 고르고 결과를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0039#ui-0039",
+        "specification": "references/ui-0039.md"
+      }
+    },
+    {
+      "id": "ui-0040",
+      "title": "해당 없음도 명시적으로 답하기",
+      "category": "설정, 선택",
+      "relatedCategories": [],
+      "organization": "GOV.UK, 체크박스 연구",
+      "summary": "활동과 해당 없음은 동시에 선택되지 않습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0040#ui-0040",
+        "specification": "references/ui-0040.md"
+      }
+    },
+    {
+      "id": "ui-0041",
+      "title": "페이지를 떠날까 봐 펼치지 않은 도움말",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "GOV.UK, 도움말 펼치기",
+      "summary": "현재 화면에서 도움말이 열린다는 것을 분명하게 안내합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0041#ui-0041",
+        "specification": "references/ui-0041.md"
+      }
+    },
+    {
+      "id": "ui-0042",
+      "title": "제출 전 전체 입력 확인과 직접 수정",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "DWP, 돌봄수당 신청",
+      "summary": "이름과 주소를 수정하고 확인하면 현재 내용이 반영됩니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0042#ui-0042",
+        "specification": "references/ui-0042.md"
+      }
+    },
+    {
+      "id": "ui-0043",
+      "title": "수취인 확인: 일치와 불일치 모두 알려주기",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "Monzo",
+      "summary": "가상의 수취인 이름을 입력해 일치와 불일치를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0043#ui-0043",
+        "specification": "references/ui-0043.md"
+      }
+    },
+    {
+      "id": "ui-0044",
+      "title": "예약 달력에서 월 단위로 이동",
+      "category": "날짜, 달력",
+      "relatedCategories": [
+        "설정, 선택"
+      ],
+      "organization": "Booking.com",
+      "summary": "이전, 다음 달을 넘기고 날짜를 선택합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0044#ui-0044",
+        "specification": "references/ui-0044.md"
+      }
+    },
+    {
+      "id": "ui-0045",
+      "title": "주소 검색 실패 시 직접 입력",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [
+        "검색, 필터",
+        "오류, 복구"
+      ],
+      "organization": "Hayneedle, Baymard",
+      "summary": "추천 결과 없이도 주소를 직접 입력하고 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0045#ui-0045",
+        "specification": "references/ui-0045.md"
+      }
+    },
+    {
+      "id": "ui-0046",
+      "title": "오늘의 학습 여부를 홈 위젯에 표시",
+      "category": "위젯, 요약",
+      "relatedCategories": [],
+      "organization": "Duolingo",
+      "summary": "학습을 시작하고 완료하면 위젯의 오늘 상태와 연속 일수가 바뀝니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0046#ui-0046",
+        "specification": "references/ui-0046.md"
+      }
+    },
+    {
+      "id": "ui-0047",
+      "title": "경로 선택에서 시간과 비용을 함께 비교",
+      "category": "지도, 위치",
+      "relatedCategories": [],
+      "organization": "Google Maps",
+      "summary": "시간과 통행료를 비교하고 선택한 경로를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0047#ui-0047",
+        "specification": "references/ui-0047.md"
+      }
+    },
+    {
+      "id": "ui-0048",
+      "title": "검색 중인지 알 수 없는 긴 대기",
+      "category": "로딩, 진행",
+      "relatedCategories": [],
+      "organization": "토스, 테이블센터",
+      "summary": "검색을 시작하면 대기 안내 후 예시 결과가 나타납니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0048#ui-0048",
+        "specification": "references/ui-0048.md"
+      }
+    },
+    {
+      "id": "ui-0049",
+      "title": "많은 검색 결과를 열별로 좁히기",
+      "category": "검색, 필터",
+      "relatedCategories": [],
+      "organization": "토스, 테이블센터",
+      "summary": "소유자 조건을 바꾸면 해당하는 결과와 개수가 함께 바뀝니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0049#ui-0049",
+        "specification": "references/ui-0049.md"
+      }
+    },
+    {
+      "id": "ui-0050",
+      "title": "선택되지 않은 배송지를 이미 선택한 것으로 오해",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [
+        "설정, 선택"
+      ],
+      "organization": "Shopify, 결제 실험",
+      "summary": "배송지를 고르면 선택 상태와 다음 행동이 명확해집니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0050#ui-0050",
+        "specification": "references/ui-0050.md"
+      }
+    },
+    {
+      "id": "ui-0051",
+      "title": "탭마다 목적은 달라도 제목 위치는 일관되게",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Duolingo, 핵심 탭",
+      "summary": "학습과 친구 화면을 전환할 때 제목의 위치를 일관되게 유지합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0051#ui-0051",
+        "specification": "references/ui-0051.md"
+      }
+    },
+    {
+      "id": "ui-0052",
+      "title": "상품 보기 방식에 맞춰 그리드 크기 전환",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Monolith, CUSP°",
+      "summary": "보기 버튼을 눌러 상품 목록의 열 수를 전환합니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0052#ui-0052",
+        "specification": "references/ui-0052.md"
+      }
+    },
+    {
+      "id": "ui-0053",
+      "title": "반복하는 참석자는 최근 선택에서 찾기",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "토스, 영수증 처리",
+      "summary": "최근 참석자를 검색하고 여러 명을 선택할 수 있습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0053#ui-0053",
+        "specification": "references/ui-0053.md"
+      }
+    },
+    {
+      "id": "ui-0054",
+      "title": "관심 목록 변경을 짧은 확인 메시지로",
+      "category": "알림, 피드백",
+      "relatedCategories": [],
+      "organization": "Robinhood, Google Play 2016",
+      "summary": "관심 목록 추가와 제거 결과를 같은 화면에서 확인합니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0054#ui-0054",
+        "specification": "references/ui-0054.md"
+      }
+    },
+    {
+      "id": "ui-0055",
+      "title": "가격 변화를 색과 숫자로 함께 전달",
+      "category": "카드, 그리드",
+      "relatedCategories": [
+        "공통 원칙, 접근성"
+      ],
+      "organization": "Robinhood, Google Play 2016",
+      "summary": "기간을 선택하면 가격과 변화 방향이 함께 바뀝니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0055#ui-0055",
+        "specification": "references/ui-0055.md"
+      }
+    },
+    {
+      "id": "ui-0056",
+      "title": "입력 초점에 따라 달라지는 단축키 목록",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "오버레이, 바텀시트"
+      ],
+      "organization": "Meta, Facebook 접근성",
+      "summary": "목록과 검색창 사이를 이동하면 현재 사용할 수 있는 단축키가 바뀝니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0056#ui-0056",
+        "specification": "references/ui-0056.md"
+      }
+    },
+    {
+      "id": "ui-0057",
+      "title": "하위 메뉴로 대각선 이동할 때 닫히지 않기",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Linear, 상황별 메뉴",
+      "summary": "하위 메뉴를 열고 포인터 또는 키보드로 이동 위치를 선택합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0057#ui-0057",
+        "specification": "references/ui-0057.md"
+      }
+    },
+    {
+      "id": "ui-0058",
+      "title": "고대비 모드에서 사라진 알림",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "메뉴, 내비게이션"
+      ],
+      "organization": "Meta, Facebook",
+      "summary": "알림 종류와 개수를 글자와 아이콘으로 함께 보여줍니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0058#ui-0058",
+        "specification": "references/ui-0058.md"
+      }
+    },
+    {
+      "id": "ui-0059",
+      "title": "진입 화면에서 시작하는 에디토리얼 경험",
+      "category": "시작, 온보딩",
+      "relatedCategories": [],
+      "organization": "FWA, Sleep Well Creatives",
+      "summary": "시작을 눌러 이야기 본문으로 들어가고 다시 표지로 돌아갑니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0059#ui-0059",
+        "specification": "references/ui-0059.md"
+      }
+    },
+    {
+      "id": "ui-0060",
+      "title": "상품이 즐겨찾기에 담기는 경로",
+      "category": "소셜, 반응",
+      "relatedCategories": [],
+      "organization": "Shopify, Shop",
+      "summary": "하트를 누르면 상품이 관심 목록에 저장되고 다시 누르면 해제됩니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0060#ui-0060",
+        "specification": "references/ui-0060.md"
+      }
+    },
+    {
+      "id": "ui-0061",
+      "title": "시스템의 취향 해석을 보고 수정",
+      "category": "설정, 선택",
+      "relatedCategories": [],
+      "organization": "Spotify, Taste Profile 베타",
+      "summary": "시스템 해석을 확인하고 개인 메모를 수정하거나 삭제합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0061#ui-0061",
+        "specification": "references/ui-0061.md"
+      }
+    },
+    {
+      "id": "ui-0062",
+      "title": "메뉴가 가린 기존 라벨",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [
+        "메뉴, 내비게이션"
+      ],
+      "organization": "Google Brain, 평가 도구",
+      "summary": "기존 라벨을 보면서 새 라벨을 선택해 추가합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0062#ui-0062",
+        "specification": "references/ui-0062.md"
+      }
+    },
+    {
+      "id": "ui-0063",
+      "title": "이메일 기능에서 사라진 텍스트 라벨",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Google, Material 연구",
+      "summary": "아이콘에 의존하지 않는 동작 이름과 결과를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0063#ui-0063",
+        "specification": "references/ui-0063.md"
+      }
+    },
+    {
+      "id": "ui-0064",
+      "title": "비어 보이는 UI 키트의 발견 가능성",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Google Material, Figma",
+      "summary": "키트에서 구성 요소를 선택해 캔버스에 추가합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0064#ui-0064",
+        "specification": "references/ui-0064.md"
+      }
+    },
+    {
+      "id": "ui-0065",
+      "title": "수신자 칩에서 연락처 카드로",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Google, Reply 예제",
+      "summary": "수신자 이름을 눌러 연락처 카드를 열고 닫습니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0065#ui-0065",
+        "specification": "references/ui-0065.md"
+      }
+    },
+    {
+      "id": "ui-0066",
+      "title": "오프라인에서도 볼 수 있는 위시리스트",
+      "category": "검색, 필터",
+      "relatedCategories": [],
+      "organization": "Awwwards, Google, Weekendesk",
+      "summary": "연결 상태를 바꾸고 오프라인에서도 저장 목록을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0066#ui-0066",
+        "specification": "references/ui-0066.md"
+      }
+    },
+    {
+      "id": "ui-0067",
+      "title": "저장 버튼과 다음 단계의 혼동",
+      "category": "버튼, 행동",
+      "relatedCategories": [],
+      "organization": "Baymard, CVS",
+      "summary": "주소와 결제 수단을 확인한 뒤 주문 검토 단계로 이동합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0067#ui-0067",
+        "specification": "references/ui-0067.md"
+      }
+    },
+    {
+      "id": "ui-0068",
+      "title": "원인을 알려주지 않는 전화번호 오류",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [
+        "오류, 복구"
+      ],
+      "organization": "Baymard, Appliances Online",
+      "summary": "입력한 전화번호의 길이와 형식을 확인하고 오류 원인을 안내합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0068#ui-0068",
+        "specification": "references/ui-0068.md"
+      }
+    },
+    {
+      "id": "ui-0069",
+      "title": "전화번호 수집 이유를 알 수 없음",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "Baymard, Apple checkout",
+      "summary": "전화번호를 요청하는 이유를 입력란 아래에 표시합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0069#ui-0069",
+        "specification": "references/ui-0069.md"
+      }
+    },
+    {
+      "id": "ui-0070",
+      "title": "규칙 통과와 비밀번호 일치의 혼동",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "Baymard, Home Depot",
+      "summary": "비밀번호 규칙과 확인 입력의 일치 여부를 각각 안내합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0070#ui-0070",
+        "specification": "references/ui-0070.md"
+      }
+    },
+    {
+      "id": "ui-0071",
+      "title": "현재 질문에 집중하는 순차 입력",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "토스, 회원가입",
+      "summary": "한 번에 한 질문씩 입력하고 이전 답을 수정할 수 있습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0071#ui-0071",
+        "specification": "references/ui-0071.md"
+      }
+    },
+    {
+      "id": "ui-0072",
+      "title": "선택지가 줄었다는 가설의 실패",
+      "category": "설정, 선택",
+      "relatedCategories": [],
+      "organization": "토스뱅크, 가입 실험",
+      "summary": "필요한 선택지를 모두 보여주고 사용자가 직접 선택합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0072#ui-0072",
+        "specification": "references/ui-0072.md"
+      }
+    },
+    {
+      "id": "ui-0073",
+      "title": "단어 단위로 드러나는 텍스트",
+      "category": "타이포, 텍스트",
+      "relatedCategories": [],
+      "organization": "Meta, Instagram Stories",
+      "summary": "텍스트를 단어 단위로 드러내는 흐름과 읽기 속도를 살펴봅니다.",
+      "motionTags": [
+        "텍스트, 장식"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0073#ui-0073",
+        "specification": "references/ui-0073.md"
+      }
+    },
+    {
+      "id": "ui-0074",
+      "title": "월 이름을 허용하는 날짜 입력",
+      "category": "날짜, 달력",
+      "relatedCategories": [],
+      "organization": "GOV.UK, 교사 연수 지원",
+      "summary": "일, 숫자 또는 영문 월 이름, 연도를 입력하고 실제 달력 날짜를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0074#ui-0074",
+        "specification": "references/ui-0074.md"
+      }
+    },
+    {
+      "id": "ui-0075",
+      "title": "상태 표시를 버튼으로 착각",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "GOV.UK, 작업 목록",
+      "summary": "작업 이름을 선택해 내용을 열고 진행 상태는 별도로 표시합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0075#ui-0075",
+        "specification": "references/ui-0075.md"
+      }
+    },
+    {
+      "id": "ui-0076",
+      "title": "붙여 넣은 답변을 잘라내지 않는 글자 수",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "GOV.UK, 글자 수 안내",
+      "summary": "글을 입력하거나 붙여 넣으면 남은 글자와 초과 글자 수를 알려줍니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0076#ui-0076",
+        "specification": "references/ui-0076.md"
+      }
+    },
+    {
+      "id": "ui-0077",
+      "title": "언어를 바꿔도 입력 유지",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "GOV.UK, 언어 전환",
+      "summary": "언어를 전환해도 입력한 이름을 그대로 유지합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0077#ui-0077",
+        "specification": "references/ui-0077.md"
+      }
+    },
+    {
+      "id": "ui-0078",
+      "title": "두 이미지와 제목이 함께 움직이는 분할 슬라이더",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "MERSI, FLOT NOIR",
+      "summary": "이전과 다음 버튼으로 프로젝트 이미지와 제목을 함께 전환합니다.",
+      "motionTags": [
+        "직접 조작",
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0078#ui-0078",
+        "specification": "references/ui-0078.md"
+      }
+    },
+    {
+      "id": "ui-0079",
+      "title": "필터 칩은 사용 맥락까지 설계",
+      "category": "검색, 필터",
+      "relatedCategories": [],
+      "organization": "Spotify, Encore",
+      "summary": "음악 목록을 다운로드 여부로 걸러내고 항목을 선택합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0079#ui-0079",
+        "specification": "references/ui-0079.md"
+      }
+    },
+    {
+      "id": "ui-0080",
+      "title": "버튼처럼 보이는 div의 빠진 조작",
+      "category": "버튼, 행동",
+      "relatedCategories": [],
+      "organization": "Spotify, Encore",
+      "summary": "필수 값을 입력하면 저장 버튼이 활성화되고 키보드로도 조작할 수 있습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0080#ui-0080",
+        "specification": "references/ui-0080.md"
+      }
+    },
+    {
+      "id": "ui-0081",
+      "title": "열리는 위치와 닫히는 위치 연결",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Atlassian, Motion",
+      "summary": "더 보기 메뉴를 열어 동작을 선택하고 원래 버튼으로 돌아갑니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0081#ui-0081",
+        "specification": "references/ui-0081.md"
+      }
+    },
+    {
+      "id": "ui-0082",
+      "title": "질문을 우편 안내로 오해한 사용자",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [
+        "설정, 선택"
+      ],
+      "organization": "GOV.UK, 선거 등록",
+      "summary": "질문과 응답 선택지를 같은 위치에서 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0082#ui-0082",
+        "specification": "references/ui-0082.md"
+      }
+    },
+    {
+      "id": "ui-0083",
+      "title": "큰 화면에서도 선호된 단계별 질문",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "GOV.UK, 선거 등록",
+      "summary": "두 질문을 차례대로 입력하고 이전 답을 수정합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0083#ui-0083",
+        "specification": "references/ui-0083.md"
+      }
+    },
+    {
+      "id": "ui-0084",
+      "title": "모바일 브라우저 뒤로 가기의 일관성",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "DWP, 돌봄수당 신청",
+      "summary": "목록에서 상세로 들어갔다가 이전 버튼으로 돌아갑니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0084#ui-0084",
+        "specification": "references/ui-0084.md"
+      }
+    },
+    {
+      "id": "ui-0085",
+      "title": "오류 후 입력 보존과 위치 안내",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [
+        "오류, 복구"
+      ],
+      "organization": "GOV.UK, 입력 검증",
+      "summary": "이메일을 확인하고 오류 요약에서 입력 위치로 이동합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0085#ui-0085",
+        "specification": "references/ui-0085.md"
+      }
+    },
+    {
+      "id": "ui-0086",
+      "title": "오답을 대화 속 되묻기로 안내",
+      "category": "학습, 피드백",
+      "relatedCategories": [],
+      "organization": "Duolingo, Adventures",
+      "summary": "힌트를 확인하고 답을 다시 입력해 결과를 확인합니다.",
+      "motionTags": [
+        "설명, 학습"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0086#ui-0086",
+        "specification": "references/ui-0086.md"
+      }
+    },
+    {
+      "id": "ui-0087",
+      "title": "처음엔 이해하지 못한 연속 학습",
+      "category": "성공, 축하",
+      "relatedCategories": [],
+      "organization": "Duolingo, 연속 학습",
+      "summary": "오늘 학습을 완료하면 연속 일수와 오늘 표시가 함께 바뀝니다.",
+      "motionTags": [
+        "설명, 학습"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0087#ui-0087",
+        "specification": "references/ui-0087.md"
+      }
+    },
+    {
+      "id": "ui-0088",
+      "title": "무장애 숲길의 경로 정보",
+      "category": "지도, 위치",
+      "relatedCategories": [],
+      "organization": "카카오맵",
+      "summary": "경로의 거리와 접근 정보를 펼쳐 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0088#ui-0088",
+        "specification": "references/ui-0088.md"
+      }
+    },
+    {
+      "id": "ui-0089",
+      "title": "보이는 화면과 실제 조작 가능 시점",
+      "category": "성능, 운영",
+      "relatedCategories": [],
+      "organization": "네이버 검색",
+      "summary": "결과를 기다리는 동안에도 상세 정보를 바로 열 수 있습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0089#ui-0089",
+        "specification": "references/ui-0089.md"
+      }
+    },
+    {
+      "id": "ui-0090",
+      "title": "지역 검색의 주요 이미지 로딩",
+      "category": "로딩, 진행",
+      "relatedCategories": [],
+      "organization": "네이버 검색",
+      "summary": "크기가 확보된 이미지 영역에서 그림을 불러오고 로딩과 완료 상태를 표시합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0090#ui-0090",
+        "specification": "references/ui-0090.md"
+      }
+    },
+    {
+      "id": "ui-0091",
+      "title": "송금 유형이 달라도 공통 항목 순서 유지",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "Monzo",
+      "summary": "송금 방식이 달라도 같은 순서로 정보를 입력하고 내용을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0091#ui-0091",
+        "specification": "references/ui-0091.md"
+      }
+    },
+    {
+      "id": "ui-0092",
+      "title": "추천 정보 실패가 송금 전체를 막지 않게",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [
+        "오류, 복구"
+      ],
+      "organization": "Monzo",
+      "summary": "추천 정보를 불러오지 못해도 금액을 직접 입력하고 다음 단계로 진행합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0092#ui-0092",
+        "specification": "references/ui-0092.md"
+      }
+    },
+    {
+      "id": "ui-0093",
+      "title": "여러 계좌 거래에 필요한 경우만 계좌 배지",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Monzo",
+      "summary": "계좌 범위를 바꾸면 거래 목록과 계좌 배지가 함께 바뀝니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0093#ui-0093",
+        "specification": "references/ui-0093.md"
+      }
+    },
+    {
+      "id": "ui-0094",
+      "title": "예정 지급을 묶고 상세 목록으로 이동",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Monzo",
+      "summary": "예정된 지급 합계에서 개별 결제 내역을 펼쳐 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0094#ui-0094",
+        "specification": "references/ui-0094.md"
+      }
+    },
+    {
+      "id": "ui-0095",
+      "title": "숙소 접근성을 하나의 체크박스로 뭉치지 않기",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "검색, 필터"
+      ],
+      "organization": "Airbnb",
+      "summary": "접근 조건을 항목별로 확인하고 추가 질문을 작성합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0095#ui-0095",
+        "specification": "references/ui-0095.md"
+      }
+    },
+    {
+      "id": "ui-0096",
+      "title": "숙소의 공간별 접근 조건 선택",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "검색, 필터",
+        "설정, 선택"
+      ],
+      "organization": "Airbnb",
+      "summary": "공간별 조건을 선택하고 조건에 맞는 예시 숙소를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0096#ui-0096",
+        "specification": "references/ui-0096.md"
+      }
+    },
+    {
+      "id": "ui-0097",
+      "title": "검색 결과에서 날짜 선택 시트로 전환",
+      "category": "날짜, 달력",
+      "relatedCategories": [
+        "오버레이, 바텀시트"
+      ],
+      "organization": "Airbnb",
+      "summary": "체크인과 체크아웃을 선택해 검색 조건에 적용합니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0097#ui-0097",
+        "specification": "references/ui-0097.md"
+      }
+    },
+    {
+      "id": "ui-0098",
+      "title": "검색 바에서 목적지 카드로 이어지는 전환",
+      "category": "검색, 필터",
+      "relatedCategories": [],
+      "organization": "Airbnb",
+      "summary": "검색창을 열어 도시를 검색하고 결과를 선택합니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0098#ui-0098",
+        "specification": "references/ui-0098.md"
+      }
+    },
+    {
+      "id": "ui-0099",
+      "title": "선택 개수를 문맥과 문구로 알려주기",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [
+        "설정, 선택"
+      ],
+      "organization": "토스",
+      "summary": "여러 주제를 선택하고 선택 결과를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0099#ui-0099",
+        "specification": "references/ui-0099.md"
+      }
+    },
+    {
+      "id": "ui-0100",
+      "title": "필요한 순간에 실험 목적 설명",
+      "category": "시작, 온보딩",
+      "relatedCategories": [],
+      "organization": "토스 TNS",
+      "summary": "과제를 시작하기 전 목적을 안내하고 설정에서 기능을 찾아봅니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0100#ui-0100",
+        "specification": "references/ui-0100.md"
+      }
+    },
+    {
+      "id": "ui-0101",
+      "title": "사용자의 표현과 게시물 용어 연결",
+      "category": "검색, 필터",
+      "relatedCategories": [],
+      "organization": "Meta Facebook Groups",
+      "summary": "검색어와 가까운 표현이 들어간 게시물을 함께 찾고 내용을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0101#ui-0101",
+        "specification": "references/ui-0101.md"
+      }
+    },
+    {
+      "id": "ui-0102",
+      "title": "비회원 주문 선택지의 발견",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Room & Board, Baymard",
+      "summary": "비회원 주문과 로그인을 각각 선택할 수 있습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0102#ui-0102",
+        "specification": "references/ui-0102.md"
+      }
+    },
+    {
+      "id": "ui-0103",
+      "title": "기존 숫자 뒤에 붙은 장바구니 수량",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [
+        "설정, 선택"
+      ],
+      "organization": "Williams Sonoma, Baymard",
+      "summary": "수량을 직접 입력하거나 버튼으로 조정하고 합계를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0103#ui-0103",
+        "specification": "references/ui-0103.md"
+      }
+    },
+    {
+      "id": "ui-0104",
+      "title": "영업일 대신 예상 배송일 보여주기",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Snowe, Baymard",
+      "summary": "배송 방법을 바꾸면 예상 도착일도 함께 바뀝니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0104#ui-0104",
+        "specification": "references/ui-0104.md"
+      }
+    },
+    {
+      "id": "ui-0105",
+      "title": "결제 단계에서도 수령 방법 바꾸기",
+      "category": "설정, 선택",
+      "relatedCategories": [],
+      "organization": "Madewell, Baymard",
+      "summary": "배송과 매장 수령을 바꾸면 배송비와 합계가 함께 바뀝니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0105#ui-0105",
+        "specification": "references/ui-0105.md"
+      }
+    },
+    {
+      "id": "ui-0106",
+      "title": "추가 주소 입력의 의미를 명확히",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "Snowe, Baymard",
+      "summary": "기본 주소와 선택 사항인 상세 주소를 구분해 입력합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0106#ui-0106",
+        "specification": "references/ui-0106.md"
+      }
+    },
+    {
+      "id": "ui-0107",
+      "title": "프로필에 묻힌 성취 배지 발견하기",
+      "category": "성공, 축하",
+      "relatedCategories": [],
+      "organization": "Duolingo",
+      "summary": "프로필에서 배지를 누르면 성취 내용을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0107#ui-0107",
+        "specification": "references/ui-0107.md"
+      }
+    },
+    {
+      "id": "ui-0108",
+      "title": "친구와 함께 지키는 학습 기록",
+      "category": "소셜, 반응",
+      "relatedCategories": [],
+      "organization": "Duolingo",
+      "summary": "친구별 학습 기록을 확인하고 오늘의 학습을 완료해 봅니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0108#ui-0108",
+        "specification": "references/ui-0108.md"
+      }
+    },
+    {
+      "id": "ui-0109",
+      "title": "사진에서 추출한 수정 사항 확인",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "Google Maps",
+      "summary": "인식된 시간을 직접 수정하고 시작과 종료 시간을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0109#ui-0109",
+        "specification": "references/ui-0109.md"
+      }
+    },
+    {
+      "id": "ui-0110",
+      "title": "테이블명 대신 키워드와 태그 조합",
+      "category": "검색, 필터",
+      "relatedCategories": [],
+      "organization": "토스, 테이블센터",
+      "summary": "검색어와 태그 조건을 조합해 데이터 목록을 좁힙니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0110#ui-0110",
+        "specification": "references/ui-0110.md"
+      }
+    },
+    {
+      "id": "ui-0111",
+      "title": "반복해서 펼쳐야 했던 영향도 화면",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [
+        "카드, 그리드"
+      ],
+      "organization": "토스, 테이블센터",
+      "summary": "연결된 테이블과 대시보드를 한 화면에서 확인하고 상세 내용을 엽니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0111#ui-0111",
+        "specification": "references/ui-0111.md"
+      }
+    },
+    {
+      "id": "ui-0112",
+      "title": "할인 코드를 위해 일반 결제로 돌아가기",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "Shopify, 결제 실험",
+      "summary": "주문을 유지하면서 일반 결제로 전환해 할인 코드를 적용합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0112#ui-0112",
+        "specification": "references/ui-0112.md"
+      }
+    },
+    {
+      "id": "ui-0113",
+      "title": "결제와 취소 버튼이 같은 위치에 교차",
+      "category": "버튼, 행동",
+      "relatedCategories": [],
+      "organization": "Shopify, 결제 실험",
+      "summary": "결제와 취소의 위치와 행동을 명확하게 구분합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0113#ui-0113",
+        "specification": "references/ui-0113.md"
+      }
+    },
+    {
+      "id": "ui-0114",
+      "title": "나타난 질문과 원래 선택의 관계가 모호할 때",
+      "category": "설정, 선택",
+      "relatedCategories": [],
+      "organization": "GOV.UK, 조건부 질문 연구",
+      "summary": "선택한 항목에 맞는 후속 질문이 바로 아래 나타납니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0114#ui-0114",
+        "specification": "references/ui-0114.md"
+      }
+    },
+    {
+      "id": "ui-0115",
+      "title": "필요하지 않은 날짜까지 요구하는 경력 입력",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "GOV.UK, 견습 지원",
+      "summary": "정확한 일자 없이 시작과 종료 연월을 입력합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0115#ui-0115",
+        "specification": "references/ui-0115.md"
+      }
+    },
+    {
+      "id": "ui-0116",
+      "title": "새 화면을 준비하는 동안 이전 화면 유지",
+      "category": "로딩, 진행",
+      "relatedCategories": [],
+      "organization": "Meta, Facebook 웹",
+      "summary": "상세 화면이 준비되는 동안 검색 결과를 유지하고 준비 후 전환합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0116#ui-0116",
+        "specification": "references/ui-0116.md"
+      }
+    },
+    {
+      "id": "ui-0117",
+      "title": "프로필의 빠른 정보부터 표시",
+      "category": "로딩, 진행",
+      "relatedCategories": [],
+      "organization": "Meta, Facebook 웹",
+      "summary": "프로필 정보를 유지하면서 게시물을 불러옵니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0117#ui-0117",
+        "specification": "references/ui-0117.md"
+      }
+    },
+    {
+      "id": "ui-0118",
+      "title": "영상과 참가자 화면의 균형",
+      "category": "소셜, 반응",
+      "relatedCategories": [],
+      "organization": "Meta, Messenger 함께 보기",
+      "summary": "영상 재생과 참가자 목록 펼치기를 함께 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0118#ui-0118",
+        "specification": "references/ui-0118.md"
+      }
+    },
+    {
+      "id": "ui-0119",
+      "title": "공유 영상의 음량을 따로 조절",
+      "category": "소셜, 반응",
+      "relatedCategories": [],
+      "organization": "Meta, Messenger 함께 보기",
+      "summary": "공유 영상의 음량을 조절하고 음소거를 켜거나 해제합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0119#ui-0119",
+        "specification": "references/ui-0119.md"
+      }
+    },
+    {
+      "id": "ui-0120",
+      "title": "상태에 따라 가능한 행동만 제공",
+      "category": "버튼, 행동",
+      "relatedCategories": [],
+      "organization": "Duolingo, 상점",
+      "summary": "하트 수에 따라 가능한 행동을 표시하고 충전 후 상태를 갱신합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0120#ui-0120",
+        "specification": "references/ui-0120.md"
+      }
+    },
+    {
+      "id": "ui-0121",
+      "title": "정말 필요한 정보만 묻는 영수증 입력",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "토스, 영수증 처리",
+      "summary": "함께 식사한 사람을 이름과 팀으로 검색해 구분합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0121#ui-0121",
+        "specification": "references/ui-0121.md"
+      }
+    },
+    {
+      "id": "ui-0122",
+      "title": "선결제와 취소를 묶어 최종 영수증 확인",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "토스, 영수증 처리",
+      "summary": "최초 결제와 취소를 펼쳐 확인하고 최종 금액을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0122#ui-0122",
+        "specification": "references/ui-0122.md"
+      }
+    },
+    {
+      "id": "ui-0123",
+      "title": "긴 메뉴 아래에 선택지가 더 있음을 알리기",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "토스 디자인 시스템, 메뉴",
+      "summary": "목록을 스크롤해 다른 계좌를 찾고 선택합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0123#ui-0123",
+        "specification": "references/ui-0123.md"
+      }
+    },
+    {
+      "id": "ui-0124",
+      "title": "카드 상태에 맞는 첫 탭 열기",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "토스뱅크, 상담 도구",
+      "summary": "사용 전 카드의 배송 정보를 먼저 보여주고 결제 내역으로 전환합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0124#ui-0124",
+        "specification": "references/ui-0124.md"
+      }
+    },
+    {
+      "id": "ui-0125",
+      "title": "자동이체 문자에 앞서 사실과 의미 설명",
+      "category": "알림, 피드백",
+      "relatedCategories": [],
+      "organization": "토스, 계좌 연결",
+      "summary": "이체 예정 내용과 의미를 확인하고 자세한 정보를 펼칩니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0125#ui-0125",
+        "specification": "references/ui-0125.md"
+      }
+    },
+    {
+      "id": "ui-0126",
+      "title": "카메라 셔터의 간결하고 익숙한 피드백",
+      "category": "버튼, 행동",
+      "relatedCategories": [],
+      "organization": "Google, Pixel 카메라",
+      "summary": "셔터를 누르면 짧은 촬영 피드백과 결과가 표시됩니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0126#ui-0126",
+        "specification": "references/ui-0126.md"
+      }
+    },
+    {
+      "id": "ui-0127",
+      "title": "메모를 누가 보는지 입력 전에 명시",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "토스, 소비 메모",
+      "summary": "공개 범위를 확인하고 메모를 작성해 화면 안에 저장합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0127#ui-0127",
+        "specification": "references/ui-0127.md"
+      }
+    },
+    {
+      "id": "ui-0128",
+      "title": "한 가지 추천과 비교 선택의 균형",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "토스, 카드 추천 실험",
+      "summary": "추천 이유를 확인하고 다른 카드와 비교할 수 있습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0128#ui-0128",
+        "specification": "references/ui-0128.md"
+      }
+    },
+    {
+      "id": "ui-0129",
+      "title": "메뉴 동작 옆에서 단축키 학습",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Linear, 상황별 메뉴",
+      "summary": "동작과 단축키를 함께 보고 메뉴를 선택합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0129#ui-0129",
+        "specification": "references/ui-0129.md"
+      }
+    },
+    {
+      "id": "ui-0130",
+      "title": "공통 헤더에서 동작 위치의 일관성",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Linear, 2026 UI 개편",
+      "summary": "탭을 전환해도 검색과 설정은 같은 위치에 유지됩니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0130#ui-0130",
+        "specification": "references/ui-0130.md"
+      }
+    },
+    {
+      "id": "ui-0131",
+      "title": "리스트 대신 레이어로 전환 구현",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "토스",
+      "summary": "계좌에서 정리 화면을 열고 완료하면 계좌 화면으로 돌아옵니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0131#ui-0131",
+        "specification": "references/ui-0131.md"
+      }
+    },
+    {
+      "id": "ui-0132",
+      "title": "별의 조작을 음악에 연결",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "FWA, Nebulofi",
+      "summary": "별의 위치와 크기를 바꾸면 그림과 소리의 높낮이가 함께 달라집니다.",
+      "motionTags": [
+        "직접 조작"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0132#ui-0132",
+        "specification": "references/ui-0132.md"
+      }
+    },
+    {
+      "id": "ui-0133",
+      "title": "도시 검색과 지구본의 카메라 이동",
+      "category": "지도, 위치",
+      "relatedCategories": [],
+      "organization": "Shopify, BFCM 2023",
+      "summary": "도시를 검색하고 선택해 지구본을 해당 위치로 돌립니다.",
+      "motionTags": [
+        "직접 조작"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0133#ui-0133",
+        "specification": "references/ui-0133.md"
+      }
+    },
+    {
+      "id": "ui-0134",
+      "title": "작은 행성에서 길을 찾는 자동 카메라",
+      "category": "지도, 위치",
+      "relatedCategories": [],
+      "organization": "Awwwards, Messenger",
+      "summary": "방향을 바꾸면 인물을 중심에 둔 채 행성의 풍경이 움직입니다.",
+      "motionTags": [
+        "직접 조작"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0134#ui-0134",
+        "specification": "references/ui-0134.md"
+      }
+    },
+    {
+      "id": "ui-0135",
+      "title": "다른 사용자와의 비언어적 안내",
+      "category": "소셜, 반응",
+      "relatedCategories": [],
+      "organization": "Awwwards, Messenger",
+      "summary": "선택한 신호가 탐색 화면에 표시되고 잠시 뒤 사라집니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0135#ui-0135",
+        "specification": "references/ui-0135.md"
+      }
+    },
+    {
+      "id": "ui-0136",
+      "title": "포인트 앤 클릭 모험과 입력의 한계",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "FWA, Food for Fish",
+      "summary": "열쇠를 찾고 문을 열어 방을 나갑니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0136#ui-0136",
+        "specification": "references/ui-0136.md"
+      }
+    },
+    {
+      "id": "ui-0137",
+      "title": "가로와 세로 스크롤의 조합",
+      "category": "탭, 화면 전환",
+      "relatedCategories": [],
+      "organization": "Awwwards, Viens-là",
+      "summary": "가로와 세로로 이어지는 콘텐츠 탐색 방식을 살펴봅니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0137#ui-0137",
+        "specification": "references/ui-0137.md"
+      }
+    },
+    {
+      "id": "ui-0138",
+      "title": "브랜드 경험에 배치한 미니게임",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "Awwwards, Viens-là",
+      "summary": "별을 누르면 새 위치로 이동하고 찾은 횟수가 늘어납니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0138#ui-0138",
+        "specification": "references/ui-0138.md"
+      }
+    },
+    {
+      "id": "ui-0139",
+      "title": "안내 애니메이션을 외우려다 실패",
+      "category": "시작, 온보딩",
+      "relatedCategories": [],
+      "organization": "토스, 시니어 사용성 연구",
+      "summary": "지금 필요한 행동을 단계마다 화면에 유지합니다.",
+      "motionTags": [
+        "설명, 학습"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0139#ui-0139",
+        "specification": "references/ui-0139.md"
+      }
+    },
+    {
+      "id": "ui-0140",
+      "title": "질문형 메뉴의 주체가 모호함",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "토스, 시니어 사용성 연구",
+      "summary": "질문과 안내 링크를 구별할 수 있도록 메뉴 문구를 살펴봅니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0140#ui-0140",
+        "specification": "references/ui-0140.md"
+      }
+    },
+    {
+      "id": "ui-0141",
+      "title": "긴 텍스트에서 느려진 장식 효과",
+      "category": "타이포, 텍스트",
+      "relatedCategories": [],
+      "organization": "Meta, Instagram Stories",
+      "summary": "짧은 글과 긴 글을 선택해 읽기 편한 전환을 비교합니다.",
+      "motionTags": [
+        "텍스트, 장식"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0141#ui-0141",
+        "specification": "references/ui-0141.md"
+      }
+    },
+    {
+      "id": "ui-0142",
+      "title": "피드 영상에서 전체 화면과 댓글로",
+      "category": "소셜, 반응",
+      "relatedCategories": [],
+      "organization": "Meta, Instagram for Quest",
+      "summary": "예시 영상을 재생하고 영상과 댓글을 함께 펼쳐 살펴봅니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0142#ui-0142",
+        "specification": "references/ui-0142.md"
+      }
+    },
+    {
+      "id": "ui-0143",
+      "title": "프로젝트 표지에서 상세 화면으로",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "MERSI, FLOT NOIR",
+      "summary": "프로젝트 표지에서 상세 정보를 열고 목록으로 돌아갑니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0143#ui-0143",
+        "specification": "references/ui-0143.md"
+      }
+    },
+    {
+      "id": "ui-0144",
+      "title": "스크롤하며 정돈되는 프로젝트 그리드",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "MERSI, FLOT NOIR",
+      "summary": "프로젝트를 유형별로 걸러 보고 선택합니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0144#ui-0144",
+        "specification": "references/ui-0144.md"
+      }
+    },
+    {
+      "id": "ui-0145",
+      "title": "프로젝트 끝에서 다음 작업으로 이어지는 화면",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Design Embraced, Davide Perozzi",
+      "summary": "프로젝트의 끝에서 다음 작업을 열고 이전 작업으로 돌아갑니다.",
+      "motionTags": [
+        "화면, 상태 전환",
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0145#ui-0145",
+        "specification": "references/ui-0145.md"
+      }
+    },
+    {
+      "id": "ui-0146",
+      "title": "시각적 위계가 사라진 수많은 라벨",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Spotify, iOS 접근성",
+      "summary": "라벨의 중요도와 정보 구조를 구별할 수 있는 구성을 살펴봅니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0146#ui-0146",
+        "specification": "references/ui-0146.md"
+      }
+    },
+    {
+      "id": "ui-0147",
+      "title": "상품 출시를 모바일 게임으로 경험",
+      "category": "시작, 온보딩",
+      "relatedCategories": [],
+      "organization": "Gucci Burst, Superhero Cheesecake",
+      "summary": "움직이는 목표를 세 번 찾아 제품을 확인하거나 바로 제품 정보를 볼 수 있습니다.",
+      "motionTags": [
+        "직접 조작"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0147#ui-0147",
+        "specification": "references/ui-0147.md"
+      }
+    },
+    {
+      "id": "ui-0148",
+      "title": "포인터로 제품 내부 드러내기",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "Aether 1, OFF+BRAND",
+      "summary": "제품 위에 포인터를 올리거나 누르면 내부 구조가 드러납니다.",
+      "motionTags": [
+        "직접 조작"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0148#ui-0148",
+        "specification": "references/ui-0148.md"
+      }
+    },
+    {
+      "id": "ui-0149",
+      "title": "소리의 변화와 파동을 연결",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "Aether 1, OFF+BRAND",
+      "summary": "예시 소리를 재생하고 크기를 조절하면 파동의 크기도 함께 바뀝니다.",
+      "motionTags": [
+        "텍스트, 장식"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0149#ui-0149",
+        "specification": "references/ui-0149.md"
+      }
+    },
+    {
+      "id": "ui-0150",
+      "title": "무한 스크롤의 예기치 않은 전환",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Aether 1, OFF+BRAND",
+      "summary": "스크롤로 목록을 살펴보고 더 보기를 눌러 다음 항목을 확인합니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0150#ui-0150",
+        "specification": "references/ui-0150.md"
+      }
+    },
+    {
+      "id": "ui-0151",
+      "title": "드래그하는 지도를 탐색 허브로",
+      "category": "지도, 위치",
+      "relatedCategories": [],
+      "organization": "San Rita, Pixila",
+      "summary": "지도를 드래그하거나 방향키로 이동하고 장소를 선택합니다.",
+      "motionTags": [
+        "직접 조작"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0151#ui-0151",
+        "specification": "references/ui-0151.md"
+      }
+    },
+    {
+      "id": "ui-0152",
+      "title": "중첩 스크롤에서 모바일 오류",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "San Rita, Pixila",
+      "summary": "하나의 스크롤 영역에서 프로젝트를 탐색하고 항목을 선택합니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0152#ui-0152",
+        "specification": "references/ui-0152.md"
+      }
+    },
+    {
+      "id": "ui-0153",
+      "title": "꽃 그림으로 시작하는 화면",
+      "category": "시작, 온보딩",
+      "relatedCategories": [],
+      "organization": "Nod Coding Bootcamp",
+      "summary": "꽃이 등장하는 소개 화면에서 과정 상세로 이동하고 돌아옵니다.",
+      "motionTags": [
+        "텍스트, 장식"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0153#ui-0153",
+        "specification": "references/ui-0153.md"
+      }
+    },
+    {
+      "id": "ui-0154",
+      "title": "여러 입력이 같은 3D 물체를 움직일 때",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "StringTune",
+      "summary": "스크롤과 포인터의 움직임을 하나의 오브젝트에 함께 반영합니다.",
+      "motionTags": [
+        "직접 조작"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0154#ui-0154",
+        "specification": "references/ui-0154.md"
+      }
+    },
+    {
+      "id": "ui-0155",
+      "title": "시계 제작을 방별 체험으로 분해",
+      "category": "시작, 온보딩",
+      "relatedCategories": [],
+      "organization": "Audemars Piguet — The House of Wonders",
+      "summary": "설계, 조립, 완성의 세 단계를 차례로 살펴봅니다.",
+      "motionTags": [
+        "설명, 학습"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0155#ui-0155",
+        "specification": "references/ui-0155.md"
+      }
+    },
+    {
+      "id": "ui-0156",
+      "title": "중요한 작업 중 새 화면 안내가 끼어든 사례",
+      "category": "오버레이, 바텀시트",
+      "relatedCategories": [],
+      "organization": "Monzo",
+      "summary": "안내를 열고 닫아도 작성 중인 내용이 유지됩니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0156#ui-0156",
+        "specification": "references/ui-0156.md"
+      }
+    },
+    {
+      "id": "ui-0157",
+      "title": "대량 지급: 작성과 최종 승인 역할 나누기",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "Monzo",
+      "summary": "작성자와 승인자의 가능한 행동을 전환해 봅니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0157#ui-0157",
+        "specification": "references/ui-0157.md"
+      }
+    },
+    {
+      "id": "ui-0158",
+      "title": "대량 지급: 웹 작성과 모바일 승인",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "Monzo",
+      "summary": "지급 목록을 확인하고 승인 전 합계와 항목을 검토합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0158#ui-0158",
+        "specification": "references/ui-0158.md"
+      }
+    },
+    {
+      "id": "ui-0159",
+      "title": "스크롤에서 화면과 그래픽 맞추기",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [],
+      "organization": "HAOQI.DESIGN",
+      "summary": "이야기를 스크롤하면 각 문장과 그림이 함께 이동합니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0159#ui-0159",
+        "specification": "references/ui-0159.md"
+      }
+    },
+    {
+      "id": "ui-0160",
+      "title": "포인터로 유리 글자의 테두리 비추기",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "HAOQI.DESIGN",
+      "summary": "포인터 위치에 따라 글자와 배경의 조명이 움직입니다.",
+      "motionTags": [
+        "직접 조작"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0160#ui-0160",
+        "specification": "references/ui-0160.md"
+      }
+    },
+    {
+      "id": "ui-0161",
+      "title": "스크롤 속도에 따라 이미지가 살짝 휘기",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "HAOQI.DESIGN",
+      "summary": "실제 스크롤 속도에 따라 이미지가 잠깐 기울고 멈추면 제자리로 돌아옵니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0161#ui-0161",
+        "specification": "references/ui-0161.md"
+      }
+    },
+    {
+      "id": "ui-0162",
+      "title": "전환 중 다음 영상 불러오기",
+      "category": "로딩, 진행",
+      "relatedCategories": [],
+      "organization": "Stefan Vitasović",
+      "summary": "다음 프로젝트가 준비되는 동안 현재 이미지를 유지한 뒤 새 화면으로 전환합니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0162#ui-0162",
+        "specification": "references/ui-0162.md"
+      }
+    },
+    {
+      "id": "ui-0163",
+      "title": "사용자의 연결 개념으로 진입점 찾기",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "토스 TNS",
+      "summary": "연결할 대상을 선택하고 다음 단계의 안내를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0163#ui-0163",
+        "specification": "references/ui-0163.md"
+      }
+    },
+    {
+      "id": "ui-0164",
+      "title": "주문 마감 시간을 남은 시간으로 설명",
+      "category": "알림, 피드백",
+      "relatedCategories": [],
+      "organization": "Stance, Baymard",
+      "summary": "남은 시간을 계산해 보여주고 마감 후에는 도착 안내를 갱신합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0164#ui-0164",
+        "specification": "references/ui-0164.md"
+      }
+    },
+    {
+      "id": "ui-0165",
+      "title": "스크롤 방향에 반응하는 인물 사진",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "PX PUSH",
+      "summary": "스크롤 방향에 따라 인물 일러스트의 방향이 바뀌며 소개 내용의 위치는 유지됩니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0165#ui-0165",
+        "specification": "references/ui-0165.md"
+      }
+    },
+    {
+      "id": "ui-0166",
+      "title": "커서 반응으로 단어 뜻 표현",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "PX PUSH",
+      "summary": "단어에 포인터를 올리거나 키보드와 터치로 선택하면 배경의 구름이 움직입니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0166#ui-0166",
+        "specification": "references/ui-0166.md"
+      }
+    },
+    {
+      "id": "ui-0167",
+      "title": "스크롤바 유무로 생긴 화면 밀림",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Luisa Ruzzenenti",
+      "summary": "목록이 짧거나 길어져도 화면 너비와 제목 위치를 유지합니다.",
+      "motionTags": [
+        "모션 운영, 접근성"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0167#ui-0167",
+        "specification": "references/ui-0167.md"
+      }
+    },
+    {
+      "id": "ui-0168",
+      "title": "상세 오버레이도 공유할 수 있는 주소",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Wowtapes",
+      "summary": "상세를 열면 주소가 바뀌고 새로고침해도 해당 상세가 유지됩니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0168#ui-0168",
+        "specification": "references/ui-0168.md"
+      }
+    },
+    {
+      "id": "ui-0169",
+      "title": "새 기능 진입점이 기존 화면을 가릴 때",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Spotify",
+      "summary": "기존 재생목록에 바로 접근하면서 새 기능도 따로 살펴볼 수 있습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0169#ui-0169",
+        "specification": "references/ui-0169.md"
+      }
+    },
+    {
+      "id": "ui-0170",
+      "title": "도착 전 마지막 구간과 입구 안내",
+      "category": "지도, 위치",
+      "relatedCategories": [],
+      "organization": "Google Maps",
+      "summary": "건물 앞에서 실제 입구까지 안내를 차례로 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0170#ui-0170",
+        "specification": "references/ui-0170.md"
+      }
+    },
+    {
+      "id": "ui-0171",
+      "title": "포인터 이동으로 제품 회전",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "Duten, incredibles",
+      "summary": "제품을 드래그하거나 방향키와 버튼으로 돌려 봅니다.",
+      "motionTags": [
+        "직접 조작"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0171#ui-0171",
+        "specification": "references/ui-0171.md"
+      }
+    },
+    {
+      "id": "ui-0172",
+      "title": "포인터에 번지는 점 격자",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "Duten, incredibles",
+      "summary": "포인터에 가까운 점들이 주변으로 밀려났다가 제자리로 돌아옵니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0172#ui-0172",
+        "specification": "references/ui-0172.md"
+      }
+    },
+    {
+      "id": "ui-0173",
+      "title": "커서 입자로 드러나는 소재 질감",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "Duten, incredibles",
+      "summary": "소재 위를 움직이는 위치에 맞춰 질감이 드러납니다.",
+      "motionTags": [
+        "텍스트, 장식"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0173#ui-0173",
+        "specification": "references/ui-0173.md"
+      }
+    },
+    {
+      "id": "ui-0174",
+      "title": "실제 로딩과 무관한 숫자 연출",
+      "category": "로딩, 진행",
+      "relatedCategories": [],
+      "organization": "Gabriel Contassot, Federico Valla",
+      "summary": "진행 숫자가 실제 로딩 상태와 일치해야 하는 이유를 살펴봅니다.",
+      "motionTags": [
+        "대기, 진행 안내"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0174#ui-0174",
+        "specification": "references/ui-0174.md"
+      }
+    },
+    {
+      "id": "ui-0175",
+      "title": "단순화와 정보 명확성의 균형",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Duolingo, 핵심 탭",
+      "summary": "탭을 선택하면 해당 화면이 나타나고 학습을 이어갈 수 있습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0175#ui-0175",
+        "specification": "references/ui-0175.md"
+      }
+    },
+    {
+      "id": "ui-0176",
+      "title": "정원 탐색에서 호수 퀴즈로 장면을 연결",
+      "category": "시작, 온보딩",
+      "relatedCategories": [],
+      "organization": "Gucci Beauty Wishes, MONOGRID",
+      "summary": "정원에서 호수로 이동하고 장면에 연결된 질문에 답합니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0176#ui-0176",
+        "specification": "references/ui-0176.md"
+      }
+    },
+    {
+      "id": "ui-0177",
+      "title": "직원 태블릿과 매장 화면의 선택 동기화",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "Dolce & Gabbana Beauty Velvet, MONOGRID",
+      "summary": "직원 화면에서 선택한 상품이 같은 예시의 매장 화면에도 표시됩니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0177#ui-0177",
+        "specification": "references/ui-0177.md"
+      }
+    },
+    {
+      "id": "ui-0178",
+      "title": "커서 속도에 따라 달라지는 푸터 반응",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "Studiogusto",
+      "summary": "포인터를 빠르게 움직이면 로고의 색상이 더 멀리 분리됐다가 돌아옵니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0178#ui-0178",
+        "specification": "references/ui-0178.md"
+      }
+    },
+    {
+      "id": "ui-0179",
+      "title": "창과 포털로 프로젝트 탐색하기",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Metalab, Frames",
+      "summary": "프로젝트를 창으로 열고 닫으면 선택했던 항목으로 돌아갑니다.",
+      "motionTags": [
+        "직접 조작"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0179#ui-0179",
+        "specification": "references/ui-0179.md"
+      }
+    },
+    {
+      "id": "ui-0180",
+      "title": "큰 글자에서 텍스트와 아이콘 함께 조정",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "토스 디자인 시스템, 메뉴",
+      "summary": "글자가 커져도 텍스트와 아이콘의 관계를 유지하는 메뉴입니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0180#ui-0180",
+        "specification": "references/ui-0180.md"
+      }
+    },
+    {
+      "id": "ui-0181",
+      "title": "상담 흐름을 따라 상품부터 구체화",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "토스뱅크, 상담 도구",
+      "summary": "고객의 상품을 선택하고 상담에 필요한 내용을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0181#ui-0181",
+        "specification": "references/ui-0181.md"
+      }
+    },
+    {
+      "id": "ui-0182",
+      "title": "알림이 가릴 수 있는 안내의 배치",
+      "category": "알림, 피드백",
+      "relatedCategories": [],
+      "organization": "토스, 계좌 연결",
+      "summary": "알림이 나타나는 동안에도 중요한 안내를 읽고 닫을 수 있습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0182#ui-0182",
+        "specification": "references/ui-0182.md"
+      }
+    },
+    {
+      "id": "ui-0183",
+      "title": "촬영 구도에 가까워질수록 소리와 진동 변화",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "Google, Pixel Guided Frame",
+      "summary": "구도 조절 버튼을 눌러 피사체를 중앙에 맞추면 단계에 맞는 신호를 확인합니다.",
+      "motionTags": [
+        "설명, 학습"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0183#ui-0183",
+        "specification": "references/ui-0183.md"
+      }
+    },
+    {
+      "id": "ui-0184",
+      "title": "날짜 선택에 가격 막대를 함께 보여주기",
+      "category": "날짜, 달력",
+      "relatedCategories": [
+        "설정, 선택"
+      ],
+      "organization": "momondo, Material Design Awards 2017",
+      "summary": "출발일별 가격을 비교하고 날짜를 선택하면 금액이 결과에 반영됩니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0184#ui-0184",
+        "specification": "references/ui-0184.md"
+      }
+    },
+    {
+      "id": "ui-0185",
+      "title": "현재 섹션의 이름을 스크롤에 맞춰 표시",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [
+        "탭, 화면 전환"
+      ],
+      "organization": "DICH Fashion, BL/S®",
+      "summary": "실제 스크롤 위치에 따라 현재 섹션의 이름을 표시합니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0185#ui-0185",
+        "specification": "references/ui-0185.md"
+      }
+    },
+    {
+      "id": "ui-0186",
+      "title": "쉬울 것 같던 음성 지원의 심리적 부담",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "토스, 채용 프로토타입",
+      "summary": "녹음하기 전에 질문을 살펴보고 텍스트로 답변을 작성합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0186#ui-0186",
+        "specification": "references/ui-0186.md"
+      }
+    },
+    {
+      "id": "ui-0187",
+      "title": "정식 지원과 가벼운 탐색의 경계",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "토스, 채용 프로토타입",
+      "summary": "지원서를 제출하지 않고 관심 업무를 살펴봅니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0187#ui-0187",
+        "specification": "references/ui-0187.md"
+      }
+    },
+    {
+      "id": "ui-0188",
+      "title": "보조 내비게이션의 시각적 무게 낮추기",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Linear, 2026 UI 개편",
+      "summary": "보조 메뉴를 전환하며 현재 위치와 내용을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0188#ui-0188",
+        "specification": "references/ui-0188.md"
+      }
+    },
+    {
+      "id": "ui-0189",
+      "title": "구분선은 관계를 설명할 때만",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Linear, 2026 UI 개편",
+      "summary": "구분선을 줄이면서 정보의 묶음과 위계를 유지합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0189#ui-0189",
+        "specification": "references/ui-0189.md"
+      }
+    },
+    {
+      "id": "ui-0190",
+      "title": "브라우저와 데스크톱에 맞는 헤더",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "Linear, 2024 UI 개편",
+      "summary": "창에 맞는 헤더에서 메뉴를 열고 항목을 선택합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0190#ui-0190",
+        "specification": "references/ui-0190.md"
+      }
+    },
+    {
+      "id": "ui-0191",
+      "title": "메뉴와 카드 모션을 함께 프로토타입",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Jitter, Antinomy Studio",
+      "summary": "메뉴를 열면 프로젝트 카드가 순서대로 나타나고 선택할 수 있습니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0191#ui-0191",
+        "specification": "references/ui-0191.md"
+      }
+    },
+    {
+      "id": "ui-0192",
+      "title": "제품 기능보다 사용 맥락을 먼저 전달",
+      "category": "시작, 온보딩",
+      "relatedCategories": [],
+      "organization": "Jitter, Antinomy Studio",
+      "summary": "사용 상황을 선택하고 해당 상황에 맞는 설명을 확인합니다.",
+      "motionTags": [
+        "설명, 학습"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0192#ui-0192",
+        "specification": "references/ui-0192.md"
+      }
+    },
+    {
+      "id": "ui-0193",
+      "title": "기본 설명은 짧게, 관심 있는 사진은 자세히",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "카드, 그리드"
+      ],
+      "organization": "Meta, Facebook 사진 설명",
+      "summary": "사진에 대한 요약을 먼저 듣고 상세 설명을 펼칩니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0193#ui-0193",
+        "specification": "references/ui-0193.md"
+      }
+    },
+    {
+      "id": "ui-0194",
+      "title": "사진 속 크기와 화면상 비중 구분",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "카드, 그리드"
+      ],
+      "organization": "Meta, Facebook 사진 설명",
+      "summary": "이미지 속 면적과 실제 크기의 차이를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0194#ui-0194",
+        "specification": "references/ui-0194.md"
+      }
+    },
+    {
+      "id": "ui-0195",
+      "title": "너무 작은 VoiceOver 탐색 영역",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "메뉴, 내비게이션"
+      ],
+      "organization": "Spotify, iOS 접근성",
+      "summary": "작은 아이콘 주변까지 포함한 버튼을 눌러 댓글을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0195#ui-0195",
+        "specification": "references/ui-0195.md"
+      }
+    },
+    {
+      "id": "ui-0196",
+      "title": "포커스 표시는 즉시 표시",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "버튼, 행동"
+      ],
+      "organization": "Atlassian, Pressable",
+      "summary": "입력란과 버튼의 키보드 포커스를 확인합니다.",
+      "motionTags": [
+        "모션 운영, 접근성"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0196#ui-0196",
+        "specification": "references/ui-0196.md"
+      }
+    },
+    {
+      "id": "ui-0197",
+      "title": "긴 메시지: 글자 크기와 읽어주기",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "타이포, 텍스트"
+      ],
+      "organization": "카카오톡",
+      "summary": "메시지의 글자 크기를 조절하고 기기의 음성으로 듣거나 중지합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0197#ui-0197",
+        "specification": "references/ui-0197.md"
+      }
+    },
+    {
+      "id": "ui-0198",
+      "title": "소리 없는 영상임을 명시",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "카드, 그리드"
+      ],
+      "organization": "카카오 고객센터",
+      "summary": "음소거로 시작하는 영상의 재생과 소리 설정을 직접 제어합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0198#ui-0198",
+        "specification": "references/ui-0198.md"
+      }
+    },
+    {
+      "id": "ui-0199",
+      "title": "호스트가 이해할 수 있는 설비 기준",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "폼, 텍스트 입력"
+      ],
+      "organization": "Airbnb",
+      "summary": "출입문 폭의 측정 방법과 입력 결과를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0199#ui-0199",
+        "specification": "references/ui-0199.md"
+      }
+    },
+    {
+      "id": "ui-0200",
+      "title": "화면 구조를 따라가는 제목 계층",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "타이포, 텍스트"
+      ],
+      "organization": "Meta, Facebook 접근성",
+      "summary": "내용의 구조와 제목을 함께 확인하며 영역을 펼칩니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0200#ui-0200",
+        "specification": "references/ui-0200.md"
+      }
+    },
+    {
+      "id": "ui-0201",
+      "title": "인증: 시각 외의 감각으로 접근",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "폼, 텍스트 입력"
+      ],
+      "organization": "카카오",
+      "summary": "이미지와 음성 중 연습 방법을 고르고 답을 확인합니다. 실제 인증에는 사용되지 않습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0201#ui-0201",
+        "specification": "references/ui-0201.md"
+      }
+    },
+    {
+      "id": "ui-0202",
+      "title": "사용자 조사 기반 쉬운 사용 설명서",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "시작, 온보딩"
+      ],
+      "organization": "카카오톡",
+      "summary": "한 번에 한 단계씩 메시지 보내는 방법을 살펴봅니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0202#ui-0202",
+        "specification": "references/ui-0202.md"
+      }
+    },
+    {
+      "id": "ui-0203",
+      "title": "모바일 웹 확대에서 잘리는 검색 화면",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "검색, 필터"
+      ],
+      "organization": "Airbnb",
+      "summary": "글자 크기를 조절하고 목적지와 날짜로 예시 숙소를 찾습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0203#ui-0203",
+        "specification": "references/ui-0203.md"
+      }
+    },
+    {
+      "id": "ui-0204",
+      "title": "같은 단계의 색상도 명도 검증",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "카드, 그리드"
+      ],
+      "organization": "토스 디자인 시스템",
+      "summary": "밝은 배경과 어두운 배경에서 같은 정보의 읽기 상태를 비교합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0204#ui-0204",
+        "specification": "references/ui-0204.md"
+      }
+    },
+    {
+      "id": "ui-0205",
+      "title": "다크 모드에 별도 대비 기준 적용",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "카드, 그리드"
+      ],
+      "organization": "토스 디자인 시스템",
+      "summary": "밝은 화면과 어두운 화면의 텍스트를 비교합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0205#ui-0205",
+        "specification": "references/ui-0205.md"
+      }
+    },
+    {
+      "id": "ui-0206",
+      "title": "자동 검사 통과와 실제 탐색 경험",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "검색, 필터"
+      ],
+      "organization": "Spotify, Encore",
+      "summary": "키보드로 검색어와 날짜를 선택하고 검색 결과를 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0206#ui-0206",
+        "specification": "references/ui-0206.md"
+      }
+    },
+    {
+      "id": "ui-0207",
+      "title": "애니메이션 시작과 보조 기술 안내",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "메뉴, 내비게이션",
+        "오버레이, 바텀시트"
+      ],
+      "organization": "Atlassian, Motion",
+      "summary": "메뉴를 열면 첫 항목으로 초점을 옮기고 닫으면 연 버튼으로 되돌립니다.",
+      "motionTags": [
+        "모션 운영, 접근성"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0207#ui-0207",
+        "specification": "references/ui-0207.md"
+      }
+    },
+    {
+      "id": "ui-0208",
+      "title": "가입과 탐색에서 스크린리더 문제",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "시작, 온보딩",
+        "메뉴, 내비게이션"
+      ],
+      "organization": "Pinterest, 접근성",
+      "summary": "검색어를 입력하고 결과를 확인합니다. 결과 개수와 내용을 함께 알려줍니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0208#ui-0208",
+        "specification": "references/ui-0208.md"
+      }
+    },
+    {
+      "id": "ui-0209",
+      "title": "사용자 글자 크기를 따르는 텍스트",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "타이포, 텍스트",
+        "카드, 그리드"
+      ],
+      "organization": "Meta, Facebook 접근성",
+      "summary": "글자 크기를 조절하며 내용이 자연스럽게 배치되는지 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0209#ui-0209",
+        "specification": "references/ui-0209.md"
+      }
+    },
+    {
+      "id": "ui-0210",
+      "title": "작업 중 사라진 포커스 복구",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [
+        "카드, 그리드",
+        "오류, 복구"
+      ],
+      "organization": "Meta, Facebook 접근성",
+      "summary": "작업을 삭제하면 다음 작업으로 포커스를 옮깁니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0210#ui-0210",
+        "specification": "references/ui-0210.md"
+      }
+    },
+    {
+      "id": "ui-0211",
+      "title": "타자기 효과에서 깨지는 문자 결합",
+      "category": "타이포, 텍스트",
+      "relatedCategories": [],
+      "organization": "Meta, Instagram Stories",
+      "summary": "다국어 제목을 완성된 단어 단위로 전환합니다.",
+      "motionTags": [
+        "텍스트, 장식"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0211#ui-0211",
+        "specification": "references/ui-0211.md"
+      }
+    },
+    {
+      "id": "ui-0212",
+      "title": "밝은 HDR 영상 위에서 흐려진 글자",
+      "category": "소셜, 반응",
+      "relatedCategories": [],
+      "organization": "Meta, Instagram Reels",
+      "summary": "영상 위 텍스트의 배경을 선택해 가독성을 비교합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0212#ui-0212",
+        "specification": "references/ui-0212.md"
+      }
+    },
+    {
+      "id": "ui-0213",
+      "title": "수상작의 스마트폰 차단이라는 트레이드오프",
+      "category": "시작, 온보딩",
+      "relatedCategories": [],
+      "organization": "84—24, Michele Giorgi",
+      "summary": "화면 크기에 따라 콘텐츠 접근이 달라지는 구성을 살펴봅니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0213#ui-0213",
+        "specification": "references/ui-0213.md"
+      }
+    },
+    {
+      "id": "ui-0214",
+      "title": "읽히지 않던 푸터 글자 효과",
+      "category": "타이포, 텍스트",
+      "relatedCategories": [],
+      "organization": "DICH Fashion, BL/S®",
+      "summary": "읽기 쉬운 링크를 선택해 내용을 전환합니다.",
+      "motionTags": [
+        "텍스트, 장식"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0214#ui-0214",
+        "specification": "references/ui-0214.md"
+      }
+    },
+    {
+      "id": "ui-0215",
+      "title": "버튼과 링크의 번역된 접근성 이름",
+      "category": "버튼, 행동",
+      "relatedCategories": [],
+      "organization": "Meta, Facebook 접근성",
+      "summary": "언어를 바꾸면 입력 이름과 검색 버튼도 함께 바뀝니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0215#ui-0215",
+        "specification": "references/ui-0215.md"
+      }
+    },
+    {
+      "id": "ui-0216",
+      "title": "모션 줄이기에서 의미 보존",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [],
+      "organization": "Apple, HIG",
+      "summary": "작업을 완료하고 되돌릴 수 있으며 움직임 축소 설정에서도 결과를 확인합니다.",
+      "motionTags": [
+        "모션 운영, 접근성"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0216#ui-0216",
+        "specification": "references/ui-0216.md"
+      }
+    },
+    {
+      "id": "ui-0217",
+      "title": "상호작용 모션 끄기",
+      "category": "설정, 선택",
+      "relatedCategories": [],
+      "organization": "W3C",
+      "summary": "설정에 따라 일정이 움직이며 펼쳐지거나 즉시 표시됩니다.",
+      "motionTags": [
+        "모션 운영, 접근성"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0217#ui-0217",
+        "specification": "references/ui-0217.md"
+      }
+    },
+    {
+      "id": "ui-0218",
+      "title": "상품 상세 끝에서 중앙 상품을 강조하는 캐러셀",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Monolith, CUSP°",
+      "summary": "이전과 다음 버튼으로 상품을 탐색합니다.",
+      "motionTags": [
+        "직접 조작"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0218#ui-0218",
+        "specification": "references/ui-0218.md"
+      }
+    },
+    {
+      "id": "ui-0219",
+      "title": "누른 위치에서 가볍게 나타나는 메뉴",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "토스 디자인 시스템, 메뉴",
+      "summary": "계좌 메뉴를 열면 첫 항목으로 초점이 이동하고 닫으면 메뉴 버튼으로 돌아갑니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0219#ui-0219",
+        "specification": "references/ui-0219.md"
+      }
+    },
+    {
+      "id": "ui-0220",
+      "title": "정지된 카드 시안에서 놓친 스와이프",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Google, 프로토타입 연구",
+      "summary": "카드를 좌우로 밀거나 이전과 다음 버튼으로 탐색합니다.",
+      "motionTags": [
+        "직접 조작"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0220#ui-0220",
+        "specification": "references/ui-0220.md"
+      }
+    },
+    {
+      "id": "ui-0221",
+      "title": "주식 카드가 원래 자리에서 상세 화면으로",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Robinhood, Google Play 2016",
+      "summary": "관심 종목 카드에서 상세 내용을 보고 다시 목록으로 돌아갑니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0221#ui-0221",
+        "specification": "references/ui-0221.md"
+      }
+    },
+    {
+      "id": "ui-0222",
+      "title": "검색 진입: Shared Z-Axis",
+      "category": "검색, 필터",
+      "relatedCategories": [],
+      "organization": "Google, Reply 예제",
+      "summary": "검색으로 이동해 입력하고 이전 화면으로 돌아갑니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0222#ui-0222",
+        "specification": "references/ui-0222.md"
+      }
+    },
+    {
+      "id": "ui-0223",
+      "title": "독립된 메일함 전환: Fade Through",
+      "category": "탭, 화면 전환",
+      "relatedCategories": [],
+      "organization": "Google, Reply 예제",
+      "summary": "받은 편지함과 보낸 편지함을 전환합니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0223#ui-0223",
+        "specification": "references/ui-0223.md"
+      }
+    },
+    {
+      "id": "ui-0224",
+      "title": "움직이는 예시를 실제 거래 내역으로 오해",
+      "category": "시작, 온보딩",
+      "relatedCategories": [],
+      "organization": "토스, 시니어 사용성 연구",
+      "summary": "연습 화면임을 명확히 표시하고 예시 입금의 등장 과정을 확인합니다.",
+      "motionTags": [
+        "설명, 학습"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0224#ui-0224",
+        "specification": "references/ui-0224.md"
+      }
+    },
+    {
+      "id": "ui-0225",
+      "title": "문제지가 펼쳐지며 사용 맥락 안내",
+      "category": "시작, 온보딩",
+      "relatedCategories": [],
+      "organization": "토스 TNS",
+      "summary": "문제를 확인하고 설정에서 알림을 찾아 과제를 완료합니다.",
+      "motionTags": [
+        "설명, 학습"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0225#ui-0225",
+        "specification": "references/ui-0225.md"
+      }
+    },
+    {
+      "id": "ui-0226",
+      "title": "복잡한 경로를 미리 볼 수 있는 지도 조정",
+      "category": "지도, 위치",
+      "relatedCategories": [],
+      "organization": "Google Maps",
+      "summary": "경로를 확대하거나 축소하고 다음 안내를 확인합니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0226#ui-0226",
+        "specification": "references/ui-0226.md"
+      }
+    },
+    {
+      "id": "ui-0227",
+      "title": "완료 화면 아래에 놓는 다음 경험",
+      "category": "성공, 축하",
+      "relatedCategories": [],
+      "organization": "토스, underlay",
+      "summary": "완료 결과를 유지한 채 아래에서 다음 선택을 펼칩니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0227#ui-0227",
+        "specification": "references/ui-0227.md"
+      }
+    },
+    {
+      "id": "ui-0228",
+      "title": "카드에 올리면 점 격자로 이미지 교체",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "HAOQI.DESIGN",
+      "summary": "프로젝트 카드에 포인터를 올리거나 초점을 맞추고 상세를 엽니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0228#ui-0228",
+        "specification": "references/ui-0228.md"
+      }
+    },
+    {
+      "id": "ui-0229",
+      "title": "이미지가 필름처럼 현상되며 나타나기",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "HAOQI.DESIGN",
+      "summary": "프로젝트 영역을 스크롤해 이미지가 화면에 들어오면 색이 나타납니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0229#ui-0229",
+        "specification": "references/ui-0229.md"
+      }
+    },
+    {
+      "id": "ui-0230",
+      "title": "상품 배경색으로 상세 화면 연결",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "TrueKind",
+      "summary": "상품 카드에서 상세 정보를 열고 장바구니에 담습니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0230#ui-0230",
+        "specification": "references/ui-0230.md"
+      }
+    },
+    {
+      "id": "ui-0231",
+      "title": "스크롤하며 로고가 헤더로 이동",
+      "category": "메뉴, 내비게이션",
+      "relatedCategories": [],
+      "organization": "PX PUSH",
+      "summary": "스크롤하면 큰 로고가 사라지고 헤더의 작은 로고가 나타납니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0231#ui-0231",
+        "specification": "references/ui-0231.md"
+      }
+    },
+    {
+      "id": "ui-0232",
+      "title": "관련 프로젝트 이미지만 강조",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Luisa Ruzzenenti",
+      "summary": "프로젝트에 포인터를 올리거나 초점을 맞추면 해당 항목이 강조되고 선택 시 상세 정보가 열립니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0232#ui-0232",
+        "specification": "references/ui-0232.md"
+      }
+    },
+    {
+      "id": "ui-0233",
+      "title": "학습 상태에 따라 달라지는 캐릭터 표정",
+      "category": "위젯, 요약",
+      "relatedCategories": [],
+      "organization": "Duolingo",
+      "summary": "학습을 완료하면 캐릭터와 학습 상태가 함께 바뀝니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0233#ui-0233",
+        "specification": "references/ui-0233.md"
+      }
+    },
+    {
+      "id": "ui-0234",
+      "title": "화면 안 요소의 등장과 퇴장: Fade",
+      "category": "알림, 피드백",
+      "relatedCategories": [],
+      "organization": "Google, Material Motion",
+      "summary": "저장 후 안내가 나타나고 닫기를 누르면 사라집니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0234#ui-0234",
+        "specification": "references/ui-0234.md"
+      }
+    },
+    {
+      "id": "ui-0235",
+      "title": "나타남과 사라짐의 속도 차이",
+      "category": "알림, 피드백",
+      "relatedCategories": [],
+      "organization": "Atlassian, Motion",
+      "summary": "저장하면 확인 메시지가 나타나고 직접 닫을 수 있습니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0235#ui-0235",
+        "specification": "references/ui-0235.md"
+      }
+    },
+    {
+      "id": "ui-0236",
+      "title": "발음과 입 모양을 동기화",
+      "category": "학습, 피드백",
+      "relatedCategories": [],
+      "organization": "Duolingo, 캐릭터 모션",
+      "summary": "단어 발음을 재생하는 동안 캐릭터의 입이 움직이고 중지하면 멈춥니다.",
+      "motionTags": [
+        "설명, 학습"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0236#ui-0236",
+        "specification": "references/ui-0236.md"
+      }
+    },
+    {
+      "id": "ui-0237",
+      "title": "문제 완료 시 발화 중단과 반응 전환",
+      "category": "학습, 피드백",
+      "relatedCategories": [],
+      "organization": "Duolingo, 캐릭터 모션",
+      "summary": "발음을 듣고 답을 제출하면 음성 재생을 멈추고 정답 여부를 보여줍니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0237#ui-0237",
+        "specification": "references/ui-0237.md"
+      }
+    },
+    {
+      "id": "ui-0238",
+      "title": "정답마다 다른 캐릭터 반응",
+      "category": "학습, 피드백",
+      "relatedCategories": [],
+      "organization": "Duolingo, 학습 피드백",
+      "summary": "답을 선택하면 정답과 오답에 맞는 반응과 안내가 표시됩니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0238#ui-0238",
+        "specification": "references/ui-0238.md"
+      }
+    },
+    {
+      "id": "ui-0239",
+      "title": "사용자 정의 스크롤에 키보드 탐색 추가",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [],
+      "organization": "Design Embraced, Davide Perozzi",
+      "summary": "스크롤 영역과 각 항목을 키보드로 탐색하고 선택할 수 있습니다.",
+      "motionTags": [
+        "모션 운영, 접근성"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0239#ui-0239",
+        "specification": "references/ui-0239.md"
+      }
+    },
+    {
+      "id": "ui-0240",
+      "title": "눈 일러스트를 이어 쓰는 페이지 전환",
+      "category": "탭, 화면 전환",
+      "relatedCategories": [],
+      "organization": "Nod Coding Bootcamp",
+      "summary": "과정을 열면 눈 모양이 작아지면서 상세 화면으로 이어집니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0240#ui-0240",
+        "specification": "references/ui-0240.md"
+      }
+    },
+    {
+      "id": "ui-0241",
+      "title": "스크롤 위치에서 시작되는 강조",
+      "category": "타이포, 텍스트",
+      "relatedCategories": [],
+      "organization": "Nod Coding Bootcamp",
+      "summary": "이야기를 스크롤하면 강조 문구가 화면에 진입할 때 나타납니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0241#ui-0241",
+        "specification": "references/ui-0241.md"
+      }
+    },
+    {
+      "id": "ui-0242",
+      "title": "스크롤 진행과 관성이 다른 속도로 반응",
+      "category": "로딩, 진행",
+      "relatedCategories": [],
+      "organization": "Kaleida",
+      "summary": "스크롤 위치를 즉시 표시하고 보조 표시가 조금 늦게 따라옵니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0242#ui-0242",
+        "specification": "references/ui-0242.md"
+      }
+    },
+    {
+      "id": "ui-0243",
+      "title": "화면을 훑는 빛으로 처리 맥락 표현",
+      "category": "로딩, 진행",
+      "relatedCategories": [],
+      "organization": "토스, underlay",
+      "summary": "문서 확인을 시작하면 빛이 화면을 훑고 완료 상태가 나타납니다.",
+      "motionTags": [
+        "대기, 진행 안내"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0243#ui-0243",
+        "specification": "references/ui-0243.md"
+      }
+    },
+    {
+      "id": "ui-0244",
+      "title": "다음 페이지 색으로 화면을 덮고 열기",
+      "category": "탭, 화면 전환",
+      "relatedCategories": [],
+      "organization": "Studiogusto",
+      "summary": "다음 프로젝트를 선택하면 다음 화면의 색이 화면을 덮고 새 내용이 나타납니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0244#ui-0244",
+        "specification": "references/ui-0244.md"
+      }
+    },
+    {
+      "id": "ui-0245",
+      "title": "반응형 가로 스크롤의 진행 상태",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Jitter, Antinomy Studio",
+      "summary": "가로 목록을 스크롤하거나 화살표로 이동하며 진행 위치를 확인합니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0245#ui-0245",
+        "specification": "references/ui-0245.md"
+      }
+    },
+    {
+      "id": "ui-0246",
+      "title": "가벼운 탄성으로 상태 변화 표현",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "Jitter, Antinomy Studio",
+      "summary": "하트를 누르면 저장 상태와 함께 하트에 탄성 피드백이 나타납니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0246#ui-0246",
+        "specification": "references/ui-0246.md"
+      }
+    },
+    {
+      "id": "ui-0247",
+      "title": "차분한 브랜드를 위한 절제된 스크롤",
+      "category": "탭, 화면 전환",
+      "relatedCategories": [],
+      "organization": "TrueKind",
+      "summary": "실제 스크롤에 맞춰 제품과 배경이 서로 다른 속도로 움직입니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0247#ui-0247",
+        "specification": "references/ui-0247.md"
+      }
+    },
+    {
+      "id": "ui-0248",
+      "title": "화면 속 충돌과 촉각을 동기화",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "Google, Pixel 설정",
+      "summary": "도형이 부딪히는 순간 시각적 반응과 지원 기기의 진동을 연결합니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0248#ui-0248",
+        "specification": "references/ui-0248.md"
+      }
+    },
+    {
+      "id": "ui-0249",
+      "title": "잦은 동작일수록 반응을 덜 두드러지게",
+      "category": "버튼, 행동",
+      "relatedCategories": [],
+      "organization": "Google, 사운드와 촉각",
+      "summary": "자주 쓰는 입력과 설정 변경의 피드백을 비교합니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0249#ui-0249",
+        "specification": "references/ui-0249.md"
+      }
+    },
+    {
+      "id": "ui-0250",
+      "title": "빠르게 연속 이동해도 중단 가능한 화면 전환",
+      "category": "탭, 화면 전환",
+      "relatedCategories": [],
+      "organization": "Design Embraced, Davide Perozzi",
+      "summary": "메뉴를 빠르게 바꿔도 마지막으로 선택한 화면이 표시됩니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0250#ui-0250",
+        "specification": "references/ui-0250.md"
+      }
+    },
+    {
+      "id": "ui-0251",
+      "title": "복원 단계와 3D 부품 분해를 연결",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "84—24, Michele Giorgi",
+      "summary": "스크롤 위치에 따라 제품의 구성 요소가 분리되어 보입니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0251#ui-0251",
+        "specification": "references/ui-0251.md"
+      }
+    },
+    {
+      "id": "ui-0252",
+      "title": "스크롤에 따라 실물과 와이어프레임 전환",
+      "category": "직접 조작",
+      "relatedCategories": [],
+      "organization": "84—24, Michele Giorgi",
+      "summary": "스크롤 위치에 따라 제품 표면이 옅어지고 선 구조가 드러납니다.",
+      "motionTags": [
+        "스크롤, 서사"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0252#ui-0252",
+        "specification": "references/ui-0252.md"
+      }
+    },
+    {
+      "id": "ui-0253",
+      "title": "글자 섞기에서 생긴 의도치 않은 단어",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [],
+      "organization": "Gabriel Contassot, Federico Valla",
+      "summary": "완성된 단어를 유지하며 제목을 전환합니다.",
+      "motionTags": [
+        "텍스트, 장식"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0253#ui-0253",
+        "specification": "references/ui-0253.md"
+      }
+    },
+    {
+      "id": "ui-0254",
+      "title": "수상작에서 착안한 장면형 스크롤",
+      "category": "탭, 화면 전환",
+      "relatedCategories": [],
+      "organization": "Webby, Igloo",
+      "summary": "스크롤하면서 세 장면을 따라가고 현재 장면을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0254#ui-0254",
+        "specification": "references/ui-0254.md"
+      }
+    },
+    {
+      "id": "ui-0255",
+      "title": "수상작 참고: 제품 크기를 보여주는 소개 화면",
+      "category": "카드, 그리드",
+      "relatedCategories": [],
+      "organization": "Awwwards, Opal",
+      "summary": "제품 크기와 상세 정보를 함께 살펴봅니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0255#ui-0255",
+        "specification": "references/ui-0255.md"
+      }
+    },
+    {
+      "id": "ui-0256",
+      "title": "모바일에서는 영상 중심으로 경량화",
+      "category": "성능, 운영",
+      "relatedCategories": [],
+      "organization": "Stefan Vitasović",
+      "summary": "영상 재생과 설명 펼치기를 확인합니다.",
+      "motionTags": [
+        "모션 운영, 접근성"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0256#ui-0256",
+        "specification": "references/ui-0256.md"
+      }
+    },
+    {
+      "id": "ui-0257",
+      "title": "모바일에서는 가벼운 전환으로 대체",
+      "category": "성능, 운영",
+      "relatedCategories": [],
+      "organization": "Design Embraced, Davide Perozzi",
+      "summary": "이전과 다음 버튼으로 프로젝트를 전환합니다.",
+      "motionTags": [
+        "모션 운영, 접근성"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0257#ui-0257",
+        "specification": "references/ui-0257.md"
+      }
+    },
+    {
+      "id": "ui-0258",
+      "title": "Carbon 버튼: 주요 버튼과 보조 버튼의 색상과 상태",
+      "category": "버튼, 행동",
+      "relatedCategories": [],
+      "organization": "IBM Carbon",
+      "summary": "저장과 취소의 우선순위와 눌림 결과를 비교합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0258#ui-0258",
+        "specification": "references/ui-0258.md"
+      }
+    },
+    {
+      "id": "ui-0259",
+      "title": "Atlassian 팝업: 진입과 퇴장의 시간 차이",
+      "category": "오버레이, 바텀시트",
+      "relatedCategories": [],
+      "organization": "Atlassian",
+      "summary": "작업의 더 보기 메뉴를 열고 동작을 선택합니다.",
+      "motionTags": [
+        "화면, 상태 전환"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0259#ui-0259",
+        "specification": "references/ui-0259.md"
+      }
+    },
+    {
+      "id": "ui-0260",
+      "title": "Carbon 기본형 텍스트 입력: 레이블과 도움말",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "IBM Carbon",
+      "summary": "항목명과 입력란, 입력 형식 도움말을 분리한 한 줄 입력을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0260#ui-0260",
+        "specification": "references/ui-0260.md"
+      }
+    },
+    {
+      "id": "ui-0261",
+      "title": "Carbon Fluid 입력: 필드 내부 레이블",
+      "category": "폼, 텍스트 입력",
+      "relatedCategories": [],
+      "organization": "IBM Carbon",
+      "summary": "필드 안에 레이블을 둔 Fluid 방식과 별도 도움말 공개 방식을 비교합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0261#ui-0261",
+        "specification": "references/ui-0261.md"
+      }
+    },
+    {
+      "id": "ui-0262",
+      "title": "Carbon 인라인 알림: 맥락 안에 유지되는 상태",
+      "category": "알림, 피드백",
+      "relatedCategories": [],
+      "organization": "IBM Carbon",
+      "summary": "설정을 바꾸고 변경 안내를 해당 작업 안에서 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0262#ui-0262",
+        "specification": "references/ui-0262.md"
+      }
+    },
+    {
+      "id": "ui-0263",
+      "title": "Apple 진행률: 측정 가능한 파일 업로드",
+      "category": "로딩, 진행",
+      "relatedCategories": [],
+      "organization": "Apple, HIG",
+      "summary": "시작과 취소를 조작하며 가상 업로드의 진행률을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0263#ui-0263",
+        "specification": "references/ui-0263.md"
+      }
+    },
+    {
+      "id": "ui-0264",
+      "title": "Apple 진행 상태: 시간을 알 수 없는 조회",
+      "category": "로딩, 진행",
+      "relatedCategories": [],
+      "organization": "Apple, HIG",
+      "summary": "걸리는 시간을 알 수 없는 조회를 시작하고 완료 상태를 확인합니다.",
+      "motionTags": [
+        "대기, 진행 안내"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0264#ui-0264",
+        "specification": "references/ui-0264.md"
+      }
+    },
+    {
+      "id": "ui-0265",
+      "title": "Apple 색상 접근성: 색 없이도 구분되는 상태",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [],
+      "organization": "Apple, HIG",
+      "summary": "색상 제거를 선택해 아이콘 형태와 글자만으로 상태가 구분되는지 비교합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0265#ui-0265",
+        "specification": "references/ui-0265.md"
+      }
+    },
+    {
+      "id": "ui-0266",
+      "title": "Carbon 토글: 설정 이름과 켜짐과 꺼짐",
+      "category": "설정, 선택",
+      "relatedCategories": [],
+      "organization": "IBM Carbon",
+      "summary": "이메일 알림 설정을 바꾸고 현재 상태를 바로 확인합니다.",
+      "motionTags": [
+        "반응, 결과 피드백"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0266#ui-0266",
+        "specification": "references/ui-0266.md"
+      }
+    },
+    {
+      "id": "ui-0267",
+      "title": "실제 기기에서 끊긴 마스크 전환",
+      "category": "성능, 운영",
+      "relatedCategories": [],
+      "organization": "Kaleida",
+      "summary": "프로젝트를 선택하면 색과 장면이 부드럽게 바뀝니다.",
+      "motionTags": [
+        "모션 운영, 접근성"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0267#ui-0267",
+        "specification": "references/ui-0267.md"
+      }
+    },
+    {
+      "id": "ui-0268",
+      "title": "무거운 3D 파일로 프레임 저하가 발생",
+      "category": "성능, 운영",
+      "relatedCategories": [],
+      "organization": "DICH Fashion, BL/S®",
+      "summary": "포인터나 방향키로 가벼운 오브젝트를 움직여 봅니다.",
+      "motionTags": [
+        "모션 운영, 접근성"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0268#ui-0268",
+        "specification": "references/ui-0268.md"
+      }
+    },
+    {
+      "id": "ui-0269",
+      "title": "복잡한 내비게이션 모션의 프레임 저하",
+      "category": "성능, 운영",
+      "relatedCategories": [],
+      "organization": "Shopify, 모바일 앱",
+      "summary": "상품 목록에서 항목을 열고 상세 화면에서 다시 돌아갑니다.",
+      "motionTags": [
+        "모션 운영, 접근성"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0269#ui-0269",
+        "specification": "references/ui-0269.md"
+      }
+    },
+    {
+      "id": "ui-0270",
+      "title": "매장용 3D 경험의 기기별 성능 균형",
+      "category": "성능, 운영",
+      "relatedCategories": [],
+      "organization": "Gucci Beauty Wishes, MONOGRID",
+      "summary": "방향키와 포인터로 정원 오브젝트를 움직여 봅니다.",
+      "motionTags": [
+        "모션 운영, 접근성"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0270#ui-0270",
+        "specification": "references/ui-0270.md"
+      }
+    },
+    {
+      "id": "ui-0271",
+      "title": "모션을 공통 언어로 전달하기",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [],
+      "organization": "토스, Rally",
+      "summary": "항목을 선택하고 선택 상태를 알리는 모션을 직접 확인합니다.",
+      "motionTags": [
+        "모션 운영, 접근성"
+      ],
+      "paths": {
+        "preview": "site/index.html?case=ui-0271#ui-0271",
+        "specification": "references/ui-0271.md"
+      }
+    },
+    {
+      "id": "ui-0272",
+      "title": "개편 직후와 익숙해진 뒤의 반응 비교",
+      "category": "공통 원칙, 접근성",
+      "relatedCategories": [],
+      "organization": "토스, UX 리서치",
+      "summary": "개편 직후와 사용에 익숙해진 뒤의 반응을 함께 살펴봅니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0272#ui-0272",
+        "specification": "references/ui-0272.md"
+      }
+    },
+    {
+      "id": "ui-0273",
+      "title": "성능 개선도 오류와 함께 실험",
+      "category": "성능, 운영",
+      "relatedCategories": [],
+      "organization": "네이버 검색",
+      "summary": "실험군을 선택해 성능과 오류 수치를 함께 비교합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0273#ui-0273",
+        "specification": "references/ui-0273.md"
+      }
+    },
+    {
+      "id": "ui-0274",
+      "title": "Carbon 정보 전달 인라인 알림",
+      "category": "알림, 피드백",
+      "relatedCategories": [],
+      "organization": "IBM Carbon",
+      "summary": "업로드를 시작하면 같은 영역에서 진행 상태와 완료 알림이 나타납니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0274#ui-0274",
+        "specification": "references/ui-0274.md"
+      }
+    },
+    {
+      "id": "ui-0275",
+      "title": "Carbon 복구 행동이 필요한 알림",
+      "category": "알림, 피드백",
+      "relatedCategories": [],
+      "organization": "IBM Carbon",
+      "summary": "저장 실패 뒤 다시 시도하면 복구 결과가 같은 위치에 표시됩니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0275#ui-0275",
+        "specification": "references/ui-0275.md"
+      }
+    },
+    {
+      "id": "ui-0276",
+      "title": "Atlassian 확인 메시지 Flag",
+      "category": "알림, 피드백",
+      "relatedCategories": [],
+      "organization": "Atlassian",
+      "summary": "작업을 추가하면 메시지가 나타나고 방금 추가한 작업을 확인합니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0276#ui-0276",
+        "specification": "references/ui-0276.md"
+      }
+    },
+    {
+      "id": "ui-0277",
+      "title": "Apple 되돌릴 수 있는 작업의 피드백",
+      "category": "알림, 피드백",
+      "relatedCategories": [],
+      "organization": "Apple, HIG",
+      "summary": "메시지를 삭제하고 토스트에서 되돌릴 수 있습니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0277#ui-0277",
+        "specification": "references/ui-0277.md"
+      }
+    },
+    {
+      "id": "ui-0278",
+      "title": "Apple 되돌릴 수 없는 삭제의 확인",
+      "category": "알림, 피드백",
+      "relatedCategories": [],
+      "organization": "Apple, HIG",
+      "summary": "되돌릴 수 없는 삭제 전에 결과와 취소 동작을 보여줍니다.",
+      "motionTags": [],
+      "paths": {
+        "preview": "site/index.html?case=ui-0278#ui-0278",
+        "specification": "references/ui-0278.md"
+      }
+    }
+  ]
+}

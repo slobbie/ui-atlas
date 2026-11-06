@@ -1,0 +1,1117 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "id": "ui-0001",
+      "key": "[\"강조 버튼\",\"https://developer.android.com/develop/ui/compose/components/button\"]"
+    },
+    {
+      "id": "ui-0002",
+      "key": "[\"주요 버튼과 보조 버튼\",\"https://developer.android.com/develop/ui/compose/components/button\"]"
+    },
+    {
+      "id": "ui-0003",
+      "key": "[\"비활성 버튼과 이유 안내\",\"https://design-system.service.gov.uk/components/button/\"]"
+    },
+    {
+      "id": "ui-0004",
+      "key": "[\"레이블이 위에 있는 입력란\",\"https://design-system.service.gov.uk/components/text-input/\"]"
+    },
+    {
+      "id": "ui-0005",
+      "key": "[\"필드 옆 오류 안내\",\"https://design-system.service.gov.uk/components/error-message/\"]"
+    },
+    {
+      "id": "ui-0006",
+      "key": "[\"선택 토글\",\"https://m3.material.io/components/switch/overview\"]"
+    },
+    {
+      "id": "ui-0007",
+      "key": "[\"검색 입력과 검색어\",\"https://design-system.service.gov.uk/components/text-input/\"]"
+    },
+    {
+      "id": "ui-0008",
+      "key": "[\"밑줄 탭\",\"https://www.w3.org/WAI/ARIA/apg/patterns/tabs/\"]"
+    },
+    {
+      "id": "ui-0009",
+      "key": "[\"필터 칩\",\"https://m3.material.io/components/chips/overview\"]"
+    },
+    {
+      "id": "ui-0010",
+      "key": "[\"하단 내비게이션\",\"https://m3.material.io/components/navigation-bar/overview\"]"
+    },
+    {
+      "id": "ui-0011",
+      "key": "[\"이미지와 요약 카드\",\"https://m3.material.io/components/cards/overview\"]"
+    },
+    {
+      "id": "ui-0012",
+      "key": "[\"아바타와 상태 목록\",\"https://m3.material.io/components/lists/overview\"]"
+    },
+    {
+      "id": "ui-0013",
+      "key": "[\"선택 가능한 요금제 카드\",\"https://design-system.service.gov.uk/components/radios/\"]"
+    },
+    {
+      "id": "ui-0014",
+      "key": "[\"인라인 성공 안내\",\"https://www.carbondesignsystem.com/building-blocks/core/components/notification/guidelines\"]"
+    },
+    {
+      "id": "ui-0015",
+      "key": "[\"하단 토스트\",\"https://www.carbondesignsystem.com/building-blocks/core/components/notification/guidelines\"]"
+    },
+    {
+      "id": "ui-0016",
+      "key": "[\"콘텐츠 로딩 스켈레톤\",\"https://www.carbondesignsystem.com/building-blocks/core/patterns/loading\"]"
+    },
+    {
+      "id": "ui-0017",
+      "key": "[\"진행률 표시\",\"https://www.carbondesignsystem.com/building-blocks/core/patterns/loading\"]"
+    },
+    {
+      "id": "ui-0018",
+      "key": "[\"확인 다이얼로그\",\"https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/\"]"
+    },
+    {
+      "id": "ui-0019",
+      "key": "[\"하단에서 올라오는 선택 시트\",\"https://m3.material.io/components/bottom-sheets/overview\"]"
+    },
+    {
+      "id": "ui-0020",
+      "key": "[\"숨겨진 달력의 발견 가능성\",\"https://toss.tech/article/thinking-user-perspective\"]"
+    },
+    {
+      "id": "ui-0021",
+      "key": "[\"대출 심사 대기 중 실제 정보\",\"https://toss.tech/article/interaction\"]"
+    },
+    {
+      "id": "ui-0022",
+      "key": "[\"Reels의 친구 반응과 스크롤\",\"https://engineering.fb.com/2026/03/18/ml-applications/friend-bubbles-enhancing-social-discovery-on-facebook-reels/\"]"
+    },
+    {
+      "id": "ui-0023",
+      "key": "[\"감정 반응의 시작과 종료\",\"https://engineering.fb.com/2016/11/22/android/keyframes-delivering-scalable-high-quality-animations-to-mobile-clients/\"]"
+    },
+    {
+      "id": "ui-0024",
+      "key": "[\"지도 핀과 목록의 정보 위계\",\"https://medium.com/airbnb-engineering/improving-search-ranking-for-maps-13b03f2c2cca\"]"
+    },
+    {
+      "id": "ui-0025",
+      "key": "[\"숨겨진 가로 메뉴 개선\",\"https://design.google/library/google-lookout-design-accessibility\"]"
+    },
+    {
+      "id": "ui-0026",
+      "key": "[\"카드에서 상세 화면으로\",\"https://m2.material.io/design/motion/the-motion-system.html\"]"
+    },
+    {
+      "id": "ui-0027",
+      "key": "[\"결제 입력의 오류 예방\",\"https://stripe.com/payments/elements\"]"
+    },
+    {
+      "id": "ui-0028",
+      "key": "[\"드래그 외의 이동 방법\",\"https://atlassian.design/components/pragmatic-drag-and-drop/accessibility-guidelines/\"]"
+    },
+    {
+      "id": "ui-0029",
+      "key": "[\"학습 기념일의 축하 모션\",\"https://blog.duolingo.com/streak-milestone-design-animation/\"]"
+    },
+    {
+      "id": "ui-0030",
+      "key": "[\"버튼과 연결된 메뉴 열기\",\"https://lusion.co/\"]"
+    },
+    {
+      "id": "ui-0031",
+      "key": "[\"사진 삭제 후 그리드 재배치\",\"https://design.google/library/making-motion-meaningful\"]"
+    },
+    {
+      "id": "ui-0032",
+      "key": "[\"댓글 전송 확인과 포커스 유지\",\"https://engineering.fb.com/2020/07/30/web/facebook-com-accessibility/\"]"
+    },
+    {
+      "id": "ui-0033",
+      "key": "[\"드래그 속도를 반영한 바텀 시트\",\"https://shopify.engineering/making-react-native-gestures-feel-natural\"]"
+    },
+    {
+      "id": "ui-0034",
+      "key": "[\"일시적 청취를 취향 프로필에서 제외\",\"https://newsroom.spotify.com/2023-02-08/exclude-from-your-taste-profile-will-make-your-personalized-recommendations-even-better/\"]"
+    },
+    {
+      "id": "ui-0035",
+      "key": "[\"자연어 요청과 추천 이유\",\"https://newsroom.spotify.com/2026-01-22/prompted-playlists-expansion/\"]"
+    },
+    {
+      "id": "ui-0036",
+      "key": "[\"제출 전 오류 목록과 수정\",\"https://design.google/library/first-raters\"]"
+    },
+    {
+      "id": "ui-0037",
+      "key": "[\"입력 도중 나타난 성급한 오류\",\"https://baymard.com/research-articles/inline-form-validation\"]"
+    },
+    {
+      "id": "ui-0038",
+      "key": "[\"키보드 뒤에 숨은 다음 입력\",\"https://toss.tech/article/toss-signup-process\"]"
+    },
+    {
+      "id": "ui-0039",
+      "key": "[\"하나씩 넘기는 스타일 대신 선택기\",\"https://engineering.fb.com/2022/07/18/developer-tools/building-text-animations-for-instagram-stories/\"]"
+    },
+    {
+      "id": "ui-0040",
+      "key": "[\"해당 없음도 명시적으로 답하기\",\"https://designnotes.blog.gov.uk/2021/11/15/letting-users-tick-a-none-checkbox/\"]"
+    },
+    {
+      "id": "ui-0041",
+      "key": "[\"페이지를 떠날까 봐 펼치지 않은 도움말\",\"https://design-system.service.gov.uk/components/details/\"]"
+    },
+    {
+      "id": "ui-0042",
+      "key": "[\"제출 전 전체 입력 확인과 직접 수정\",\"https://dwpdigital.blog.gov.uk/2016/07/08/a-live-service-is-not-the-end-of-the-story/\"]"
+    },
+    {
+      "id": "ui-0043",
+      "key": "[\"수취인 확인: 일치와 불일치 모두 알려주기\",\"https://monzo.com/blog/delightful-payments\"]"
+    },
+    {
+      "id": "ui-0044",
+      "key": "[\"예약 달력에서 월 단위로 이동\",\"https://medium.com/booking-research/building-accessibility-research-practices-75d82098f286\"]"
+    },
+    {
+      "id": "ui-0045",
+      "key": "[\"주소 검색 실패 시 직접 입력\",\"https://baymard.com/research-articles/automatic-address-lookup\"]"
+    },
+    {
+      "id": "ui-0046",
+      "key": "[\"오늘의 학습 여부를 홈 위젯에 표시\",\"https://blog.duolingo.com/widget-feature/\"]"
+    },
+    {
+      "id": "ui-0047",
+      "key": "[\"경로 선택에서 시간과 비용을 함께 비교\",\"https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/\"]"
+    },
+    {
+      "id": "ui-0048",
+      "key": "[\"검색 중인지 알 수 없는 긴 대기\",\"https://toss.tech/article/tablecenter\"]"
+    },
+    {
+      "id": "ui-0049",
+      "key": "[\"많은 검색 결과를 열별로 좁히기\",\"https://toss.tech/article/tablecenter\"]"
+    },
+    {
+      "id": "ui-0050",
+      "key": "[\"선택되지 않은 배송지를 이미 선택한 것으로 오해\",\"https://shopify.engineering/shaping-the-future-of-payments-in-the-browser\"]"
+    },
+    {
+      "id": "ui-0051",
+      "key": "[\"탭마다 목적은 달라도 제목 위치는 일관되게\",\"https://blog.duolingo.com/core-tabs-redesign/\"]"
+    },
+    {
+      "id": "ui-0052",
+      "key": "[\"상품 보기 방식에 맞춰 그리드 크기 전환\",\"https://tympanus.net/codrops/2026/01/08/from-whats-a-string-to-sites-of-the-day-nathan-dallaires-high-end-web-experiences/\"]"
+    },
+    {
+      "id": "ui-0053",
+      "key": "[\"반복하는 참석자는 최근 선택에서 찾기\",\"https://toss.tech/article/real-reason\"]"
+    },
+    {
+      "id": "ui-0054",
+      "key": "[\"관심 목록 변경을 짧은 확인 메시지로\",\"https://design.google/library/robinhood-investing-material\"]"
+    },
+    {
+      "id": "ui-0055",
+      "key": "[\"가격 변화를 색과 숫자로 함께 전달\",\"https://design.google/library/robinhood-investing-material\"]"
+    },
+    {
+      "id": "ui-0056",
+      "key": "[\"입력 초점에 따라 달라지는 단축키 목록\",\"https://engineering.fb.com/2020/07/30/web/facebook-com-accessibility/\"]"
+    },
+    {
+      "id": "ui-0057",
+      "key": "[\"하위 메뉴로 대각선 이동할 때 닫히지 않기\",\"https://linear.app/now/invisible-details\"]"
+    },
+    {
+      "id": "ui-0058",
+      "key": "[\"고대비 모드에서 사라진 알림\",\"https://engineering.fb.com/2014/02/03/web/under-the-hood-facebook-accessibility/\"]"
+    },
+    {
+      "id": "ui-0059",
+      "key": "[\"진입 화면에서 시작하는 에디토리얼 경험\",\"https://sleep-well-creatives.com/\"]"
+    },
+    {
+      "id": "ui-0060",
+      "key": "[\"상품이 즐겨찾기에 담기는 경로\",\"https://shopify.engineering/building-add-to-favorite-animation-shop-app\"]"
+    },
+    {
+      "id": "ui-0061",
+      "key": "[\"시스템의 취향 해석을 보고 수정\",\"https://newsroom.spotify.com/2026-09-23/taste-profile-shape-home-feed/\"]"
+    },
+    {
+      "id": "ui-0062",
+      "key": "[\"메뉴가 가린 기존 라벨\",\"https://design.google/library/first-raters\"]"
+    },
+    {
+      "id": "ui-0063",
+      "key": "[\"이메일 기능에서 사라진 텍스트 라벨\",\"https://design.google/library/expressive-material-design-google-research\"]"
+    },
+    {
+      "id": "ui-0064",
+      "key": "[\"비어 보이는 UI 키트의 발견 가능성\",\"https://design.google/library/figma-comments-material-ux-euphrates-dahout\"]"
+    },
+    {
+      "id": "ui-0065",
+      "key": "[\"수신자 칩에서 연락처 카드로\",\"https://developer.android.com/codelabs/material-motion-android\"]"
+    },
+    {
+      "id": "ui-0066",
+      "key": "[\"오프라인에서도 볼 수 있는 위시리스트\",\"https://pwa-book.awwwards.com/chapter-9\"]"
+    },
+    {
+      "id": "ui-0067",
+      "key": "[\"저장 버튼과 다음 단계의 혼동\",\"https://baymard.com/research-articles/checkout-usability-apply-buttons\"]"
+    },
+    {
+      "id": "ui-0068",
+      "key": "[\"원인을 알려주지 않는 전화번호 오류\",\"https://baymard.com/research-articles/current-state-of-checkout-ux\"]"
+    },
+    {
+      "id": "ui-0069",
+      "key": "[\"전화번호 수집 이유를 알 수 없음\",\"https://baymard.com/research-articles/current-state-of-checkout-ux\"]"
+    },
+    {
+      "id": "ui-0070",
+      "key": "[\"규칙 통과와 비밀번호 일치의 혼동\",\"https://baymard.com/research-articles/inline-form-validation\"]"
+    },
+    {
+      "id": "ui-0071",
+      "key": "[\"현재 질문에 집중하는 순차 입력\",\"https://toss.tech/article/toss-signup-process\"]"
+    },
+    {
+      "id": "ui-0072",
+      "key": "[\"선택지가 줄었다는 가설의 실패\",\"https://toss.tech/article/45391\"]"
+    },
+    {
+      "id": "ui-0073",
+      "key": "[\"단어 단위로 드러나는 텍스트\",\"https://engineering.fb.com/2022/07/18/developer-tools/building-text-animations-for-instagram-stories/\"]"
+    },
+    {
+      "id": "ui-0074",
+      "key": "[\"월 이름을 허용하는 날짜 입력\",\"https://design-system.service.gov.uk/components/date-input/\"]"
+    },
+    {
+      "id": "ui-0075",
+      "key": "[\"상태 표시를 버튼으로 착각\",\"https://design-system.service.gov.uk/components/task-list/\"]"
+    },
+    {
+      "id": "ui-0076",
+      "key": "[\"붙여 넣은 답변을 잘라내지 않는 글자 수\",\"https://design-system.service.gov.uk/components/character-count/\"]"
+    },
+    {
+      "id": "ui-0077",
+      "key": "[\"언어를 바꿔도 입력 유지\",\"https://design-system.service.gov.uk/components/language-navigation/\"]"
+    },
+    {
+      "id": "ui-0078",
+      "key": "[\"두 이미지와 제목이 함께 움직이는 분할 슬라이더\",\"https://tympanus.net/codrops/2026/07/27/between-print-and-digital-the-making-of-mersis-website/\"]"
+    },
+    {
+      "id": "ui-0079",
+      "key": "[\"필터 칩은 사용 맥락까지 설계\",\"https://engineering.atspotify.com/2023/03/encore-x-accessibility-a-balancing-act\"]"
+    },
+    {
+      "id": "ui-0080",
+      "key": "[\"버튼처럼 보이는 div의 빠진 조작\",\"https://engineering.atspotify.com/2023/03/encore-x-accessibility-a-balancing-act\"]"
+    },
+    {
+      "id": "ui-0081",
+      "key": "[\"열리는 위치와 닫히는 위치 연결\",\"https://atlassian.design/foundations/motion/applying-motion\"]"
+    },
+    {
+      "id": "ui-0082",
+      "key": "[\"질문을 우편 안내로 오해한 사용자\",\"https://designnotes.blog.gov.uk/2014/07/14/things-we-learnt-designing-register-to-vote/\"]"
+    },
+    {
+      "id": "ui-0083",
+      "key": "[\"큰 화면에서도 선호된 단계별 질문\",\"https://designnotes.blog.gov.uk/2014/07/14/things-we-learnt-designing-register-to-vote/\"]"
+    },
+    {
+      "id": "ui-0084",
+      "key": "[\"모바일 브라우저 뒤로 가기의 일관성\",\"https://dwpdigital.blog.gov.uk/2016/07/08/a-live-service-is-not-the-end-of-the-story/\"]"
+    },
+    {
+      "id": "ui-0085",
+      "key": "[\"오류 후 입력 보존과 위치 안내\",\"https://design-system.service.gov.uk/patterns/validation/\"]"
+    },
+    {
+      "id": "ui-0086",
+      "key": "[\"오답을 대화 속 되묻기로 안내\",\"https://blog.duolingo.com/adventures/\"]"
+    },
+    {
+      "id": "ui-0087",
+      "key": "[\"처음엔 이해하지 못한 연속 학습\",\"https://blog.duolingo.com/streak-milestone-design-animation/\"]"
+    },
+    {
+      "id": "ui-0088",
+      "key": "[\"무장애 숲길의 경로 정보\",\"https://www.kakaocorp.com/media/esg-resource/pdf/Kakao_ESGReport2024_KR.pdf\"]"
+    },
+    {
+      "id": "ui-0089",
+      "key": "[\"보이는 화면과 실제 조작 가능 시점\",\"https://d2.naver.com/helloworld/8113611\"]"
+    },
+    {
+      "id": "ui-0090",
+      "key": "[\"지역 검색의 주요 이미지 로딩\",\"https://d2.naver.com/helloworld/9582944\"]"
+    },
+    {
+      "id": "ui-0091",
+      "key": "[\"송금 유형이 달라도 공통 항목 순서 유지\",\"https://monzo.com/blog/delightful-payments\"]"
+    },
+    {
+      "id": "ui-0092",
+      "key": "[\"추천 정보 실패가 송금 전체를 막지 않게\",\"https://monzo.com/blog/delightful-payments\"]"
+    },
+    {
+      "id": "ui-0093",
+      "key": "[\"여러 계좌 거래에 필요한 경우만 계좌 배지\",\"https://monzo.com/blog/how-we-unified-our-customers-activity-on-the-new-home-screen\"]"
+    },
+    {
+      "id": "ui-0094",
+      "key": "[\"예정 지급을 묶고 상세 목록으로 이동\",\"https://monzo.com/blog/how-we-unified-our-customers-activity-on-the-new-home-screen\"]"
+    },
+    {
+      "id": "ui-0095",
+      "key": "[\"숙소 접근성을 하나의 체크박스로 뭉치지 않기\",\"https://medium.com/@nanako.era/designing-for-access-creating-new-features-for-guests-with-disabilities-d56b9f988a2c\"]"
+    },
+    {
+      "id": "ui-0096",
+      "key": "[\"숙소의 공간별 접근 조건 선택\",\"https://medium.com/@nanako.era/designing-for-access-creating-new-features-for-guests-with-disabilities-d56b9f988a2c\"]"
+    },
+    {
+      "id": "ui-0097",
+      "key": "[\"검색 결과에서 날짜 선택 시트로 전환\",\"https://medium.com/airbnb-engineering/motion-engineering-at-scale-5ffabfc878\"]"
+    },
+    {
+      "id": "ui-0098",
+      "key": "[\"검색 바에서 목적지 카드로 이어지는 전환\",\"https://medium.com/airbnb-engineering/motion-engineering-at-scale-5ffabfc878\"]"
+    },
+    {
+      "id": "ui-0099",
+      "key": "[\"선택 개수를 문맥과 문구로 알려주기\",\"https://toss.tech/article/mysterydesignclub1\"]"
+    },
+    {
+      "id": "ui-0100",
+      "key": "[\"필요한 순간에 실험 목적 설명\",\"https://toss.tech/article/Toss_Navigation_Score\"]"
+    },
+    {
+      "id": "ui-0101",
+      "key": "[\"사용자의 표현과 게시물 용어 연결\",\"https://engineering.fb.com/2026/04/21/ml-applications/modernizing-the-facebook-groups-search-to-unlock-the-power-of-community-knowledge/\"]"
+    },
+    {
+      "id": "ui-0102",
+      "key": "[\"비회원 주문 선택지의 발견\",\"https://baymard.com/research-articles/current-state-of-checkout-ux\"]"
+    },
+    {
+      "id": "ui-0103",
+      "key": "[\"기존 숫자 뒤에 붙은 장바구니 수량\",\"https://baymard.com/research-articles/current-state-of-checkout-ux\"]"
+    },
+    {
+      "id": "ui-0104",
+      "key": "[\"영업일 대신 예상 배송일 보여주기\",\"https://baymard.com/research-articles/current-state-of-checkout-ux\"]"
+    },
+    {
+      "id": "ui-0105",
+      "key": "[\"결제 단계에서도 수령 방법 바꾸기\",\"https://baymard.com/research-articles/current-state-of-checkout-ux\"]"
+    },
+    {
+      "id": "ui-0106",
+      "key": "[\"추가 주소 입력의 의미를 명확히\",\"https://baymard.com/research-articles/address-line-2\"]"
+    },
+    {
+      "id": "ui-0107",
+      "key": "[\"프로필에 묻힌 성취 배지 발견하기\",\"https://blog.duolingo.com/achievement-badges/\"]"
+    },
+    {
+      "id": "ui-0108",
+      "key": "[\"친구와 함께 지키는 학습 기록\",\"https://blog.duolingo.com/product-lessons-friend-streak/\"]"
+    },
+    {
+      "id": "ui-0109",
+      "key": "[\"사진에서 추출한 수정 사항 확인\",\"https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/\"]"
+    },
+    {
+      "id": "ui-0110",
+      "key": "[\"테이블명 대신 키워드와 태그 조합\",\"https://toss.tech/article/tablecenter\"]"
+    },
+    {
+      "id": "ui-0111",
+      "key": "[\"반복해서 펼쳐야 했던 영향도 화면\",\"https://toss.tech/article/tablecenter\"]"
+    },
+    {
+      "id": "ui-0112",
+      "key": "[\"할인 코드를 위해 일반 결제로 돌아가기\",\"https://shopify.engineering/shaping-the-future-of-payments-in-the-browser\"]"
+    },
+    {
+      "id": "ui-0113",
+      "key": "[\"결제와 취소 버튼이 같은 위치에 교차\",\"https://shopify.engineering/shaping-the-future-of-payments-in-the-browser\"]"
+    },
+    {
+      "id": "ui-0114",
+      "key": "[\"나타난 질문과 원래 선택의 관계가 모호할 때\",\"https://accessibility.blog.gov.uk/2021/09/21/an-update-on-the-accessibility-of-conditionally-revealed-questions/\"]"
+    },
+    {
+      "id": "ui-0115",
+      "key": "[\"필요하지 않은 날짜까지 요구하는 경력 입력\",\"https://designnotes.blog.gov.uk/2014/08/07/doing-the-hard-work-to-make-it-simple/\"]"
+    },
+    {
+      "id": "ui-0116",
+      "key": "[\"새 화면을 준비하는 동안 이전 화면 유지\",\"https://engineering.fb.com/2020/05/08/web/facebook-redesign/\"]"
+    },
+    {
+      "id": "ui-0117",
+      "key": "[\"프로필의 빠른 정보부터 표시\",\"https://engineering.fb.com/2020/05/08/web/facebook-redesign/\"]"
+    },
+    {
+      "id": "ui-0118",
+      "key": "[\"영상과 참가자 화면의 균형\",\"https://engineering.fb.com/2020/12/16/android/co-experiences/\"]"
+    },
+    {
+      "id": "ui-0119",
+      "key": "[\"공유 영상의 음량을 따로 조절\",\"https://engineering.fb.com/2020/12/16/android/co-experiences/\"]"
+    },
+    {
+      "id": "ui-0120",
+      "key": "[\"상태에 따라 가능한 행동만 제공\",\"https://blog.duolingo.com/server-driven-ui/\"]"
+    },
+    {
+      "id": "ui-0121",
+      "key": "[\"정말 필요한 정보만 묻는 영수증 입력\",\"https://toss.tech/article/real-reason\"]"
+    },
+    {
+      "id": "ui-0122",
+      "key": "[\"선결제와 취소를 묶어 최종 영수증 확인\",\"https://toss.tech/article/real-reason\"]"
+    },
+    {
+      "id": "ui-0123",
+      "key": "[\"긴 메뉴 아래에 선택지가 더 있음을 알리기\",\"https://toss.tech/article/toss-design-system\"]"
+    },
+    {
+      "id": "ui-0124",
+      "key": "[\"카드 상태에 맞는 첫 탭 열기\",\"https://toss.tech/article/rebuild-legacy-cs-products\"]"
+    },
+    {
+      "id": "ui-0125",
+      "key": "[\"자동이체 문자에 앞서 사실과 의미 설명\",\"https://toss.tech/article/platform-designer-work\"]"
+    },
+    {
+      "id": "ui-0126",
+      "key": "[\"카메라 셔터의 간결하고 익숙한 피드백\",\"https://design.google/library/ux-sound-haptic-material-design\"]"
+    },
+    {
+      "id": "ui-0127",
+      "key": "[\"메모를 누가 보는지 입력 전에 명시\",\"https://toss.tech/article/thinking-user-perspective\"]"
+    },
+    {
+      "id": "ui-0128",
+      "key": "[\"한 가지 추천과 비교 선택의 균형\",\"https://toss.tech/article/recommend-just-one\"]"
+    },
+    {
+      "id": "ui-0129",
+      "key": "[\"메뉴 동작 옆에서 단축키 학습\",\"https://linear.app/now/invisible-details\"]"
+    },
+    {
+      "id": "ui-0130",
+      "key": "[\"공통 헤더에서 동작 위치의 일관성\",\"https://linear.app/now/behind-the-latest-design-refresh\"]"
+    },
+    {
+      "id": "ui-0131",
+      "key": "[\"리스트 대신 레이어로 전환 구현\",\"https://toss.tech/article/interaction\"]"
+    },
+    {
+      "id": "ui-0132",
+      "key": "[\"별의 조작을 음악에 연결\",\"https://thefwa.com/rss/\"]"
+    },
+    {
+      "id": "ui-0133",
+      "key": "[\"도시 검색과 지구본의 카메라 이동\",\"https://shopify.engineering/how-we-built-shopifys-bfcm-2023-globe\"]"
+    },
+    {
+      "id": "ui-0134",
+      "key": "[\"작은 행성에서 길을 찾는 자동 카메라\",\"https://www.awwwards.com/messenger.html\"]"
+    },
+    {
+      "id": "ui-0135",
+      "key": "[\"다른 사용자와의 비언어적 안내\",\"https://www.awwwards.com/messenger.html\"]"
+    },
+    {
+      "id": "ui-0136",
+      "key": "[\"포인트 앤 클릭 모험과 입력의 한계\",\"https://rickcreates.com/r/2024-05-07-food-for-fish\"]"
+    },
+    {
+      "id": "ui-0137",
+      "key": "[\"가로·세로 스크롤의 조합\",\"https://assets.awwwards.com/assets/files/live-presentation.pdf\"]"
+    },
+    {
+      "id": "ui-0138",
+      "key": "[\"브랜드 경험에 배치한 미니게임\",\"https://assets.awwwards.com/assets/files/live-presentation.pdf\"]"
+    },
+    {
+      "id": "ui-0139",
+      "key": "[\"안내 애니메이션을 외우려다 실패\",\"https://toss.tech/article/senior-usability-research\"]"
+    },
+    {
+      "id": "ui-0140",
+      "key": "[\"질문형 메뉴의 주체가 모호함\",\"https://toss.tech/article/senior-usability-research\"]"
+    },
+    {
+      "id": "ui-0141",
+      "key": "[\"긴 텍스트에서 느려진 장식 효과\",\"https://engineering.fb.com/2022/07/18/developer-tools/building-text-animations-for-instagram-stories/\"]"
+    },
+    {
+      "id": "ui-0142",
+      "key": "[\"피드 영상에서 전체 화면과 댓글로\",\"https://engineering.fb.com/2024/10/02/android/react-at-meta-connect-2024/\"]"
+    },
+    {
+      "id": "ui-0143",
+      "key": "[\"프로젝트 표지에서 상세 화면으로\",\"https://tympanus.net/codrops/2026/07/27/between-print-and-digital-the-making-of-mersis-website/\"]"
+    },
+    {
+      "id": "ui-0144",
+      "key": "[\"스크롤하며 정돈되는 프로젝트 그리드\",\"https://tympanus.net/codrops/2026/07/27/between-print-and-digital-the-making-of-mersis-website/\"]"
+    },
+    {
+      "id": "ui-0145",
+      "key": "[\"프로젝트 끝에서 다음 작업으로 이어지는 화면\",\"https://tympanus.net/codrops/2024/03/21/case-study-design-embraced-portfolio-2024/\"]"
+    },
+    {
+      "id": "ui-0146",
+      "key": "[\"시각적 위계가 사라진 수많은 라벨\",\"https://engineering.atspotify.com/2015/11/improving-the-accessibility-on-our-ios-client\"]"
+    },
+    {
+      "id": "ui-0147",
+      "key": "[\"상품 출시를 모바일 게임으로 경험\",\"https://tympanus.net/codrops/2026/02/27/gabriel-norman-from-gaming-culture-to-high-end-interactive-experiences/\"]"
+    },
+    {
+      "id": "ui-0148",
+      "key": "[\"포인터로 제품 내부 드러내기\",\"https://tympanus.net/codrops/2025/08/06/building-aether-1-sound-without-boundaries/\"]"
+    },
+    {
+      "id": "ui-0149",
+      "key": "[\"소리의 변화와 파동을 연결\",\"https://tympanus.net/codrops/2025/08/06/building-aether-1-sound-without-boundaries/\"]"
+    },
+    {
+      "id": "ui-0150",
+      "key": "[\"무한 스크롤의 예기치 않은 전환\",\"https://tympanus.net/codrops/2025/08/06/building-aether-1-sound-without-boundaries/\"]"
+    },
+    {
+      "id": "ui-0151",
+      "key": "[\"드래그하는 지도를 탐색 허브로\",\"https://tympanus.net/codrops/2026/03/24/digital-craft-wild-soul-building-san-ritas-topographic-web-experience/\"]"
+    },
+    {
+      "id": "ui-0152",
+      "key": "[\"중첩 스크롤에서 모바일 오류\",\"https://tympanus.net/codrops/2026/03/24/digital-craft-wild-soul-building-san-ritas-topographic-web-experience/\"]"
+    },
+    {
+      "id": "ui-0153",
+      "key": "[\"꽃 그림으로 시작하는 화면\",\"https://tympanus.net/codrops/2024/11/26/case-study-nod-coding-bootcamp/\"]"
+    },
+    {
+      "id": "ui-0154",
+      "key": "[\"여러 입력이 같은 3D 물체를 움직일 때\",\"https://tympanus.net/codrops/2026/02/04/making-motion-behave-inside-vladyslav-penevs-production-ready-interaction-systems/\"]"
+    },
+    {
+      "id": "ui-0155",
+      "key": "[\"시계 제작을 방별 체험으로 분해\",\"https://tympanus.net/codrops/2026/07/13/where-stories-become-interactive-worlds-how-makemepulse-brings-ideas-to-life-across-web-xr-and-beyond/\"]"
+    },
+    {
+      "id": "ui-0156",
+      "key": "[\"중요한 작업 중 새 화면 안내가 끼어든 사례\",\"https://monzo.com/blog/2023/08/03/how-we-launch-new-products-at-monzo\"]"
+    },
+    {
+      "id": "ui-0157",
+      "key": "[\"대량 지급: 작성과 최종 승인 역할 나누기\",\"https://monzo.com/blog/designing-bulk-payments-for-how-businesses-really-work\"]"
+    },
+    {
+      "id": "ui-0158",
+      "key": "[\"대량 지급: 웹 작성과 모바일 승인\",\"https://monzo.com/blog/designing-bulk-payments-for-how-businesses-really-work\"]"
+    },
+    {
+      "id": "ui-0159",
+      "key": "[\"스크롤에서 화면과 그래픽 맞추기\",\"https://tympanus.net/codrops/2026/08/15/inside-haoqi-design-letting-dom-and-webgl-share-a-retro-futurist-stage/\"]"
+    },
+    {
+      "id": "ui-0160",
+      "key": "[\"포인터로 유리 글자의 테두리 비추기\",\"https://tympanus.net/codrops/2026/08/15/inside-haoqi-design-letting-dom-and-webgl-share-a-retro-futurist-stage/\"]"
+    },
+    {
+      "id": "ui-0161",
+      "key": "[\"스크롤 속도에 따라 이미지가 살짝 휘기\",\"https://tympanus.net/codrops/2026/08/15/inside-haoqi-design-letting-dom-and-webgl-share-a-retro-futurist-stage/\"]"
+    },
+    {
+      "id": "ui-0162",
+      "key": "[\"전환 중 다음 영상 불러오기\",\"https://tympanus.net/codrops/2025/03/05/case-study-stefan-vitasovic-portfolio-2025/\"]"
+    },
+    {
+      "id": "ui-0163",
+      "key": "[\"사용자의 연결 개념으로 진입점 찾기\",\"https://toss.tech/article/Toss_Navigation_Score\"]"
+    },
+    {
+      "id": "ui-0164",
+      "key": "[\"주문 마감 시간을 남은 시간으로 설명\",\"https://baymard.com/research-articles/current-state-of-checkout-ux\"]"
+    },
+    {
+      "id": "ui-0165",
+      "key": "[\"스크롤 방향에 반응하는 인물 사진\",\"https://tympanus.net/codrops/2026/08/07/the-department-is-open-building-the-px-push-website/\"]"
+    },
+    {
+      "id": "ui-0166",
+      "key": "[\"커서 반응으로 단어 뜻 표현\",\"https://tympanus.net/codrops/2026/08/07/the-department-is-open-building-the-px-push-website/\"]"
+    },
+    {
+      "id": "ui-0167",
+      "key": "[\"스크롤바 유무로 생긴 화면 밀림\",\"https://tympanus.net/codrops/2025/01/10/developer-spotlight-lorenzo-dossi/\"]"
+    },
+    {
+      "id": "ui-0168",
+      "key": "[\"상세 오버레이도 공유할 수 있는 주소\",\"https://tympanus.net/codrops/2025/01/10/developer-spotlight-lorenzo-dossi/\"]"
+    },
+    {
+      "id": "ui-0169",
+      "key": "[\"새 기능 진입점이 기존 화면을 가릴 때\",\"https://engineering.atspotify.com/2023/08/experimentation-at-spotify-three-lessons-for-maximizing-impact-in-innovation\"]"
+    },
+    {
+      "id": "ui-0170",
+      "key": "[\"도착 전 마지막 구간과 입구 안내\",\"https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/\"]"
+    },
+    {
+      "id": "ui-0171",
+      "key": "[\"포인터 이동으로 제품 회전\",\"https://tympanus.net/codrops/2024/10/17/case-study-dutens-2024-website/\"]"
+    },
+    {
+      "id": "ui-0172",
+      "key": "[\"포인터에 번지는 점 격자\",\"https://tympanus.net/codrops/2024/10/17/case-study-dutens-2024-website/\"]"
+    },
+    {
+      "id": "ui-0173",
+      "key": "[\"커서 입자로 드러나는 소재 질감\",\"https://tympanus.net/codrops/2024/10/17/case-study-dutens-2024-website/\"]"
+    },
+    {
+      "id": "ui-0174",
+      "key": "[\"실제 로딩과 무관한 숫자 연출\",\"https://tympanus.net/codrops/2024/04/24/case-study-gabriel-contassots-portfolio-2024/\"]"
+    },
+    {
+      "id": "ui-0175",
+      "key": "[\"단순화와 정보 명확성의 균형\",\"https://blog.duolingo.com/core-tabs-redesign/\"]"
+    },
+    {
+      "id": "ui-0176",
+      "key": "[\"정원 탐색에서 호수 퀴즈로 장면을 연결\",\"https://tympanus.net/codrops/2026/02/27/gabriel-norman-from-gaming-culture-to-high-end-interactive-experiences/\"]"
+    },
+    {
+      "id": "ui-0177",
+      "key": "[\"직원 태블릿과 매장 화면의 선택 동기화\",\"https://tympanus.net/codrops/2026/02/27/gabriel-norman-from-gaming-culture-to-high-end-interactive-experiences/\"]"
+    },
+    {
+      "id": "ui-0178",
+      "key": "[\"커서 속도에 따라 달라지는 푸터 반응\",\"https://tympanus.net/codrops/2023/04/25/case-study-studiogusto/\"]"
+    },
+    {
+      "id": "ui-0179",
+      "key": "[\"창과 포털로 프로젝트 탐색하기\",\"https://tympanus.net/codrops/2026/01/08/from-whats-a-string-to-sites-of-the-day-nathan-dallaires-high-end-web-experiences/\"]"
+    },
+    {
+      "id": "ui-0180",
+      "key": "[\"큰 글자에서 텍스트와 아이콘 함께 조정\",\"https://toss.tech/article/toss-design-system\"]"
+    },
+    {
+      "id": "ui-0181",
+      "key": "[\"상담 흐름을 따라 상품부터 구체화\",\"https://toss.tech/article/rebuild-legacy-cs-products\"]"
+    },
+    {
+      "id": "ui-0182",
+      "key": "[\"알림이 가릴 수 있는 안내의 배치\",\"https://toss.tech/article/platform-designer-work\"]"
+    },
+    {
+      "id": "ui-0183",
+      "key": "[\"촬영 구도에 가까워질수록 소리와 진동 변화\",\"https://design.google/library/ux-sound-haptic-material-design\"]"
+    },
+    {
+      "id": "ui-0184",
+      "key": "[\"날짜 선택에 가격 막대를 함께 보여주기\",\"https://design.google/library/material-design-awards-2017\"]"
+    },
+    {
+      "id": "ui-0185",
+      "key": "[\"현재 섹션의 이름을 스크롤에 맞춰 표시\",\"https://tympanus.net/codrops/2025/06/02/dich-fashion-a-new-era-of-futuristic-fashion/\"]"
+    },
+    {
+      "id": "ui-0186",
+      "key": "[\"쉬울 것 같던 음성 지원의 심리적 부담\",\"https://toss.tech/article/dont-trust-your-gut\"]"
+    },
+    {
+      "id": "ui-0187",
+      "key": "[\"정식 지원과 가벼운 탐색의 경계\",\"https://toss.tech/article/dont-trust-your-gut\"]"
+    },
+    {
+      "id": "ui-0188",
+      "key": "[\"보조 내비게이션의 시각적 무게 낮추기\",\"https://linear.app/now/behind-the-latest-design-refresh\"]"
+    },
+    {
+      "id": "ui-0189",
+      "key": "[\"구분선은 관계를 설명할 때만\",\"https://linear.app/now/behind-the-latest-design-refresh\"]"
+    },
+    {
+      "id": "ui-0190",
+      "key": "[\"브라우저와 데스크톱에 맞는 헤더\",\"https://linear.app/now/how-we-redesigned-the-linear-ui\"]"
+    },
+    {
+      "id": "ui-0191",
+      "key": "[\"메뉴와 카드 모션을 함께 프로토타입\",\"https://tympanus.net/codrops/2025/09/02/a-behind-the-scenes-look-at-the-new-jitter-website/\"]"
+    },
+    {
+      "id": "ui-0192",
+      "key": "[\"제품 기능보다 사용 맥락을 먼저 전달\",\"https://tympanus.net/codrops/2025/09/02/a-behind-the-scenes-look-at-the-new-jitter-website/\"]"
+    },
+    {
+      "id": "ui-0193",
+      "key": "[\"기본 설명은 짧게, 관심 있는 사진은 자세히\",\"https://about.fb.com/news/2021/01/using-ai-to-improve-photo-descriptions-for-blind-and-visually-impaired-people/\"]"
+    },
+    {
+      "id": "ui-0194",
+      "key": "[\"사진 속 크기와 화면상 비중 구분\",\"https://about.fb.com/news/2021/01/using-ai-to-improve-photo-descriptions-for-blind-and-visually-impaired-people/\"]"
+    },
+    {
+      "id": "ui-0195",
+      "key": "[\"너무 작은 VoiceOver 탐색 영역\",\"https://engineering.atspotify.com/2015/11/improving-the-accessibility-on-our-ios-client\"]"
+    },
+    {
+      "id": "ui-0196",
+      "key": "[\"포커스 표시는 즉시 표시\",\"https://atlassian.design/components/primitives/pressable/usage\"]"
+    },
+    {
+      "id": "ui-0197",
+      "key": "[\"긴 메시지: 글자 크기와 읽어주기\",\"https://www.kakaocorp.com/media/esg-resource/pdf/Kakao_ESGReport2024_KR.pdf\"]"
+    },
+    {
+      "id": "ui-0198",
+      "key": "[\"소리 없는 영상임을 명시\",\"https://kind.krx.co.kr/external/2024/06/07/000433/20240607000998/%EC%B9%B4%EC%B9%B4%EC%98%A4%20ESG%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20%272023%20%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9D%98%20%EC%95%BD%EC%86%8D%EA%B3%BC%20%EC%B1%85%EC%9E%84%27.pdf\"]"
+    },
+    {
+      "id": "ui-0199",
+      "key": "[\"호스트가 이해할 수 있는 설비 기준\",\"https://medium.com/@nanako.era/designing-for-access-creating-new-features-for-guests-with-disabilities-d56b9f988a2c\"]"
+    },
+    {
+      "id": "ui-0200",
+      "key": "[\"화면 구조를 따라가는 제목 계층\",\"https://engineering.fb.com/2020/07/30/web/facebook-com-accessibility/\"]"
+    },
+    {
+      "id": "ui-0201",
+      "key": "[\"인증: 시각 외의 감각으로 접근\",\"https://www.kakaocorp.com/media/esg-resource/pdf/Kakao_ESGReport2024_KR.pdf\"]"
+    },
+    {
+      "id": "ui-0202",
+      "key": "[\"사용자 조사 기반 쉬운 사용 설명서\",\"https://www.kakaocorp.com/media/esg-resource/pdf/Kakao_ESGReport2024_KR.pdf\"]"
+    },
+    {
+      "id": "ui-0203",
+      "key": "[\"모바일 웹 확대에서 잘리는 검색 화면\",\"https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881\"]"
+    },
+    {
+      "id": "ui-0204",
+      "key": "[\"같은 단계의 색상도 명도 검증\",\"https://toss.tech/article/tds-color-system-update\"]"
+    },
+    {
+      "id": "ui-0205",
+      "key": "[\"다크 모드에 별도 대비 기준 적용\",\"https://toss.tech/article/tds-color-system-update\"]"
+    },
+    {
+      "id": "ui-0206",
+      "key": "[\"자동 검사 통과와 실제 탐색 경험\",\"https://engineering.atspotify.com/2023/03/encore-x-accessibility-a-balancing-act\"]"
+    },
+    {
+      "id": "ui-0207",
+      "key": "[\"애니메이션 시작과 보조 기술 안내\",\"https://atlassian.design/foundations/motion/applying-motion\"]"
+    },
+    {
+      "id": "ui-0208",
+      "key": "[\"가입과 탐색에서 스크린리더 문제\",\"https://medium.com/pinterest-engineering/seven-best-practices-for-inclusive-product-design-9476c61f1e17\"]"
+    },
+    {
+      "id": "ui-0209",
+      "key": "[\"사용자 글자 크기를 따르는 텍스트\",\"https://engineering.fb.com/2020/07/30/web/facebook-com-accessibility/\"]"
+    },
+    {
+      "id": "ui-0210",
+      "key": "[\"작업 중 사라진 포커스 복구\",\"https://engineering.fb.com/2020/07/30/web/facebook-com-accessibility/\"]"
+    },
+    {
+      "id": "ui-0211",
+      "key": "[\"타자기 효과에서 깨지는 문자 결합\",\"https://engineering.fb.com/2022/07/18/developer-tools/building-text-animations-for-instagram-stories/\"]"
+    },
+    {
+      "id": "ui-0212",
+      "key": "[\"밝은 HDR 영상 위에서 흐려진 글자\",\"https://engineering.fb.com/2023/07/17/video-engineering/hdr-video-reels-meta/\"]"
+    },
+    {
+      "id": "ui-0213",
+      "key": "[\"수상작의 스마트폰 차단이라는 트레이드오프\",\"https://tympanus.net/codrops/2024/04/08/case-study-84-24/\"]"
+    },
+    {
+      "id": "ui-0214",
+      "key": "[\"읽히지 않던 푸터 글자 효과\",\"https://tympanus.net/codrops/2025/06/02/dich-fashion-a-new-era-of-futuristic-fashion/\"]"
+    },
+    {
+      "id": "ui-0215",
+      "key": "[\"버튼과 링크의 번역된 접근성 이름\",\"https://engineering.fb.com/2020/07/30/web/facebook-com-accessibility/\"]"
+    },
+    {
+      "id": "ui-0216",
+      "key": "[\"모션 줄이기에서 의미 보존\",\"https://developer.apple.com/help/app-store-connect/manage-app-accessibility/reduced-motion-evaluation-criteria\"]"
+    },
+    {
+      "id": "ui-0217",
+      "key": "[\"상호작용 모션 끄기\",\"https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.html\"]"
+    },
+    {
+      "id": "ui-0218",
+      "key": "[\"상품 상세 끝에서 중앙 상품을 강조하는 캐러셀\",\"https://tympanus.net/codrops/2026/01/08/from-whats-a-string-to-sites-of-the-day-nathan-dallaires-high-end-web-experiences/\"]"
+    },
+    {
+      "id": "ui-0219",
+      "key": "[\"누른 위치에서 가볍게 나타나는 메뉴\",\"https://toss.tech/article/toss-design-system\"]"
+    },
+    {
+      "id": "ui-0220",
+      "key": "[\"정지된 카드 시안에서 놓친 스와이프\",\"https://design.google/library/sketch-scroll-or-swipe\"]"
+    },
+    {
+      "id": "ui-0221",
+      "key": "[\"주식 카드가 원래 자리에서 상세 화면으로\",\"https://design.google/library/robinhood-investing-material\"]"
+    },
+    {
+      "id": "ui-0222",
+      "key": "[\"검색 진입: Shared Z-Axis\",\"https://developer.android.com/codelabs/material-motion-android\"]"
+    },
+    {
+      "id": "ui-0223",
+      "key": "[\"독립된 메일함 전환: Fade Through\",\"https://developer.android.com/codelabs/material-motion-android\"]"
+    },
+    {
+      "id": "ui-0224",
+      "key": "[\"움직이는 예시를 실제 거래 내역으로 오해\",\"https://toss.tech/article/senior-usability-research\"]"
+    },
+    {
+      "id": "ui-0225",
+      "key": "[\"문제지가 펼쳐지며 사용 맥락 안내\",\"https://toss.tech/article/Toss_Navigation_Score\"]"
+    },
+    {
+      "id": "ui-0226",
+      "key": "[\"복잡한 경로를 미리 볼 수 있는 지도 조정\",\"https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/\"]"
+    },
+    {
+      "id": "ui-0227",
+      "key": "[\"완료 화면 아래에 놓는 다음 경험\",\"https://toss.tech/article/deadend\"]"
+    },
+    {
+      "id": "ui-0228",
+      "key": "[\"카드에 올리면 점 격자로 이미지 교체\",\"https://tympanus.net/codrops/2026/08/15/inside-haoqi-design-letting-dom-and-webgl-share-a-retro-futurist-stage/\"]"
+    },
+    {
+      "id": "ui-0229",
+      "key": "[\"이미지가 필름처럼 현상되며 나타나기\",\"https://tympanus.net/codrops/2026/08/15/inside-haoqi-design-letting-dom-and-webgl-share-a-retro-futurist-stage/\"]"
+    },
+    {
+      "id": "ui-0230",
+      "key": "[\"상품 배경색으로 상세 화면 연결\",\"https://tympanus.net/codrops/2025/06/25/designing-truekind-a-skincare-brands-journey-through-moodboards-motion-and-meaning/\"]"
+    },
+    {
+      "id": "ui-0231",
+      "key": "[\"스크롤하며 로고가 헤더로 이동\",\"https://tympanus.net/codrops/2026/08/07/the-department-is-open-building-the-px-push-website/\"]"
+    },
+    {
+      "id": "ui-0232",
+      "key": "[\"관련 프로젝트 이미지만 강조\",\"https://tympanus.net/codrops/2025/01/10/developer-spotlight-lorenzo-dossi/\"]"
+    },
+    {
+      "id": "ui-0233",
+      "key": "[\"학습 상태에 따라 달라지는 캐릭터 표정\",\"https://blog.duolingo.com/widget-feature/\"]"
+    },
+    {
+      "id": "ui-0234",
+      "key": "[\"화면 안 요소의 등장과 퇴장: Fade\",\"https://developer.android.com/codelabs/material-motion-android\"]"
+    },
+    {
+      "id": "ui-0235",
+      "key": "[\"나타남과 사라짐의 속도 차이\",\"https://atlassian.design/foundations/motion/applying-motion\"]"
+    },
+    {
+      "id": "ui-0236",
+      "key": "[\"발음과 입 모양을 동기화\",\"https://blog.duolingo.com/world-character-visemes/\"]"
+    },
+    {
+      "id": "ui-0237",
+      "key": "[\"문제 완료 시 발화 중단과 반응 전환\",\"https://blog.duolingo.com/world-character-visemes/\"]"
+    },
+    {
+      "id": "ui-0238",
+      "key": "[\"정답마다 다른 캐릭터 반응\",\"https://blog.duolingo.com/building-character/\"]"
+    },
+    {
+      "id": "ui-0239",
+      "key": "[\"사용자 정의 스크롤에 키보드 탐색 추가\",\"https://tympanus.net/codrops/2024/03/21/case-study-design-embraced-portfolio-2024/\"]"
+    },
+    {
+      "id": "ui-0240",
+      "key": "[\"눈 일러스트를 이어 쓰는 페이지 전환\",\"https://tympanus.net/codrops/2024/11/26/case-study-nod-coding-bootcamp/\"]"
+    },
+    {
+      "id": "ui-0241",
+      "key": "[\"스크롤 위치에서 시작되는 강조\",\"https://tympanus.net/codrops/2024/11/26/case-study-nod-coding-bootcamp/\"]"
+    },
+    {
+      "id": "ui-0242",
+      "key": "[\"스크롤 진행과 관성이 다른 속도로 반응\",\"https://tympanus.net/codrops/2026/02/04/making-motion-behave-inside-vladyslav-penevs-production-ready-interaction-systems/\"]"
+    },
+    {
+      "id": "ui-0243",
+      "key": "[\"화면을 훑는 빛으로 처리 맥락 표현\",\"https://toss.tech/article/deadend\"]"
+    },
+    {
+      "id": "ui-0244",
+      "key": "[\"다음 페이지 색으로 화면을 덮고 열기\",\"https://tympanus.net/codrops/2023/04/25/case-study-studiogusto/\"]"
+    },
+    {
+      "id": "ui-0245",
+      "key": "[\"반응형 가로 스크롤의 진행 상태\",\"https://tympanus.net/codrops/2025/09/02/a-behind-the-scenes-look-at-the-new-jitter-website/\"]"
+    },
+    {
+      "id": "ui-0246",
+      "key": "[\"가벼운 탄성으로 상태 변화 표현\",\"https://tympanus.net/codrops/2025/09/02/a-behind-the-scenes-look-at-the-new-jitter-website/\"]"
+    },
+    {
+      "id": "ui-0247",
+      "key": "[\"차분한 브랜드를 위한 절제된 스크롤\",\"https://tympanus.net/codrops/2025/06/25/designing-truekind-a-skincare-brands-journey-through-moodboards-motion-and-meaning/\"]"
+    },
+    {
+      "id": "ui-0248",
+      "key": "[\"화면 속 충돌과 촉각을 동기화\",\"https://design.google/library/ux-sound-haptic-material-design\"]"
+    },
+    {
+      "id": "ui-0249",
+      "key": "[\"잦은 동작일수록 반응을 덜 두드러지게\",\"https://design.google/library/ux-sound-haptic-material-design\"]"
+    },
+    {
+      "id": "ui-0250",
+      "key": "[\"빠르게 연속 이동해도 중단 가능한 화면 전환\",\"https://tympanus.net/codrops/2024/03/21/case-study-design-embraced-portfolio-2024/\"]"
+    },
+    {
+      "id": "ui-0251",
+      "key": "[\"복원 단계와 3D 부품 분해를 연결\",\"https://tympanus.net/codrops/2024/04/08/case-study-84-24/\"]"
+    },
+    {
+      "id": "ui-0252",
+      "key": "[\"스크롤에 따라 실물과 와이어프레임 전환\",\"https://tympanus.net/codrops/2024/04/08/case-study-84-24/\"]"
+    },
+    {
+      "id": "ui-0253",
+      "key": "[\"글자 섞기에서 생긴 의도치 않은 단어\",\"https://tympanus.net/codrops/2024/04/24/case-study-gabriel-contassots-portfolio-2024/\"]"
+    },
+    {
+      "id": "ui-0254",
+      "key": "[\"수상작에서 착안한 장면형 스크롤\",\"https://winners.webbyawards.com/2026/websites-and-mobile-sites/features-design/best-visual-design-aesthetic/361001/igloo-inc\"]"
+    },
+    {
+      "id": "ui-0255",
+      "key": "[\"수상작 참고: 제품 크기를 보여주는 소개 화면\",\"https://www.linkedin.com/posts/awwwards_we-are-thrilled-to-announce-that-the-winners-activity-7308880923482112002-FiXG\"]"
+    },
+    {
+      "id": "ui-0256",
+      "key": "[\"모바일에서는 영상 중심으로 경량화\",\"https://tympanus.net/codrops/2025/03/05/case-study-stefan-vitasovic-portfolio-2025/\"]"
+    },
+    {
+      "id": "ui-0257",
+      "key": "[\"모바일에서는 가벼운 전환으로 대체\",\"https://tympanus.net/codrops/2024/03/21/case-study-design-embraced-portfolio-2024/\"]"
+    },
+    {
+      "id": "ui-0258",
+      "key": "[\"Carbon 버튼: 주요·보조의 색상과 상태\",\"https://www.carbondesignsystem.com/building-blocks/core/components/button/guidelines\"]"
+    },
+    {
+      "id": "ui-0259",
+      "key": "[\"Atlassian 팝업: 진입과 퇴장의 시간 차이\",\"https://atlassian.design/foundations/motion/applying-motion\"]"
+    },
+    {
+      "id": "ui-0260",
+      "key": "[\"Carbon 기본형 텍스트 입력: 레이블과 도움말\",\"https://www.carbondesignsystem.com/building-blocks/core/components/text-input/guidelines\"]"
+    },
+    {
+      "id": "ui-0261",
+      "key": "[\"Carbon Fluid 입력: 필드 내부 레이블\",\"https://www.carbondesignsystem.com/building-blocks/core/components/text-input/guidelines\"]"
+    },
+    {
+      "id": "ui-0262",
+      "key": "[\"Carbon 인라인 알림: 맥락 안에 유지되는 상태\",\"https://www.carbondesignsystem.com/building-blocks/core/components/notification/guidelines\"]"
+    },
+    {
+      "id": "ui-0263",
+      "key": "[\"Apple 진행률: 측정 가능한 파일 업로드\",\"https://developer.apple.com/design/human-interface-guidelines/progress-indicators\"]"
+    },
+    {
+      "id": "ui-0264",
+      "key": "[\"Apple 진행 상태: 시간을 알 수 없는 조회\",\"https://developer.apple.com/design/human-interface-guidelines/progress-indicators\"]"
+    },
+    {
+      "id": "ui-0265",
+      "key": "[\"Apple 색상 접근성: 색 없이도 구분되는 상태\",\"https://developer.apple.com/design/human-interface-guidelines/color\"]"
+    },
+    {
+      "id": "ui-0266",
+      "key": "[\"Carbon 토글: 설정 이름과 켜짐·꺼짐\",\"https://www.carbondesignsystem.com/building-blocks/core/components/toggle/guidelines\"]"
+    },
+    {
+      "id": "ui-0267",
+      "key": "[\"실제 기기에서 끊긴 마스크 전환\",\"https://tympanus.net/codrops/2026/02/04/making-motion-behave-inside-vladyslav-penevs-production-ready-interaction-systems/\"]"
+    },
+    {
+      "id": "ui-0268",
+      "key": "[\"무거운 3D 파일로 프레임 저하가 발생\",\"https://tympanus.net/codrops/2025/06/02/dich-fashion-a-new-era-of-futuristic-fashion/\"]"
+    },
+    {
+      "id": "ui-0269",
+      "key": "[\"복잡한 내비게이션 모션의 프레임 저하\",\"https://shopify.engineering/react-native-new-architecture\"]"
+    },
+    {
+      "id": "ui-0270",
+      "key": "[\"매장용 3D 경험의 기기별 성능 균형\",\"https://tympanus.net/codrops/2026/02/27/gabriel-norman-from-gaming-culture-to-high-end-interactive-experiences/\"]"
+    },
+    {
+      "id": "ui-0271",
+      "key": "[\"모션을 공통 언어로 전달하기\",\"https://toss.tech/article/interaction\"]"
+    },
+    {
+      "id": "ui-0272",
+      "key": "[\"개편 직후와 익숙해진 뒤의 반응 비교\",\"https://toss.tech/article/uxresearch-method\"]"
+    },
+    {
+      "id": "ui-0273",
+      "key": "[\"성능 개선도 오류와 함께 실험\",\"https://d2.naver.com/helloworld/8113611\"]"
+    },
+    {
+      "id": "ui-0274",
+      "key": "[\"Carbon 정보 전달 인라인 알림\",\"https://www.carbondesignsystem.com/getting-started/migrating/guide/develop\"]"
+    },
+    {
+      "id": "ui-0275",
+      "key": "[\"Carbon 복구 행동이 필요한 알림\",\"https://www.carbondesignsystem.com/building-blocks/core/components/notification/guidelines\"]"
+    },
+    {
+      "id": "ui-0276",
+      "key": "[\"Atlassian 확인 메시지 Flag\",\"https://atlassian.design/components/flag\"]"
+    },
+    {
+      "id": "ui-0277",
+      "key": "[\"Apple 되돌릴 수 있는 작업의 피드백\",\"https://developer.apple.com/design/human-interface-guidelines/alerts\"]"
+    },
+    {
+      "id": "ui-0278",
+      "key": "[\"Apple 되돌릴 수 없는 삭제의 확인\",\"https://developer.apple.com/design/human-interface-guidelines/alerts\"]"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ui-atlas",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "UI와 모션 사례를 직접 살펴보고, AI가 작업 전에 필요한 기준을 찾아볼 수 있도록 정리한 사례집",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "check": "node tools/check.mjs",
+    "test": "node --test tools/library.test.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

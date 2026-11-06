@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.0",
+  "count": 278,
+  "source": "src/catalog.html",
+  "sourceSha256": "40186f3e8402163f4dd5af121fbe1e01af36fc0eae227cf9fb46533b7aa4eabd",
+  "casesSha256": "ce0318db82e228ee573ac6847511bf8e51abfb9a46cac94195b450a5c46d3a98",
+  "index": "data/index.json",
+  "cases": "data/cases.json",
+  "registry": "data/ids.json",
+  "agentEntry": "AGENTS.md",
+  "humanEntry": "site/index.html",
+  "projectVerification": "not-tested",
+  "browserVerification": "not-verified-in-this-package"
+}
